@@ -5,8 +5,8 @@
     <description>Informacion que Sirve</description>
     <link>http://infopoly.github.io//</link>
     <atom:link href="http://infopoly.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Aug 2015 20:41:02 -0500</pubDate>
-    <lastBuildDate>Thu, 06 Aug 2015 20:41:02 -0500</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2015 23:09:27 -0500</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2015 23:09:27 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -33,6 +33,33 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Haciendo lo nuestro...</title>
+        <description>&lt;p class=&quot;message&quot;&gt;
+&quot;La vida es vida y el dinero es dinero, dinero, dinero, dinero... aprende algo dinero.&quot;
+&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Existen muchas razones por las cuales me interesa escribir un blog, entre ellas la de realizar aportes utiles de informacion
+para los que apenas empiezan en este mundillo, compartir puntos de vista acerca de uno u otro tema, generar pensamiento critico
+en los lectores, etc. Pero la principal razon por la que hago esto es la de regresar a la comunidad un poco de lo que yo he recibido.&lt;/p&gt;
+
+&lt;p&gt;La pagina va principalmente del lado de la tecnologia informatica, centrada principalmente en temas de interes, como las matematicas, 
+la programacion, los algoritmos, etc. Los consejos, tips, tutoriales y demas, son sobre temas en los que estamos relacionados, practicamente
+solo, nos dedicaremos a hacer lo nuestro. &lt;/p&gt;
+
+&lt;p&gt;Hay cosas que no se pueden hacer con dinero, solo con voluntad y amor por lo que se hace.&lt;/p&gt;
+
+&lt;h3 id=&quot;aprende-algo-dinero&quot;&gt;-Aprende algo dinero.&lt;/h3&gt;
+</description>
+        <pubDate>Sun, 02 Aug 2015 00:00:00 -0500</pubDate>
+        <link>http://infopoly.github.io//2015/08/02/haciendo-lo-nuestro/</link>
+        <guid isPermaLink="true">http://infopoly.github.io//2015/08/02/haciendo-lo-nuestro/</guid>
+        
         
       </item>
     
