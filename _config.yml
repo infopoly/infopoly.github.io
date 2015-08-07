@@ -2,11 +2,11 @@
 # Basic settings.
 #
 #url: http://qckanemoto.github.io # or http://you.github.io
-url: http://localhost:4000
-baseurl: /jekyll-qck-theme # or ""
-title: Your name
-description: Some descriptions of yourself.
-avatar: /assets/img/ogp.png
+url: http://infopoly.github.io/
+baseurl: ""
+title: Infopoly
+description: Informacion que Sirve
+avatar: /assets/img/inf.jpg
 
 #
 # Icons
@@ -14,9 +14,9 @@ avatar: /assets/img/ogp.png
 icons:
   rss: true
   email:
-  github: qckanemoto
+  github: reoxb
   bitbucket:
-  twitter: qckanemoto
+  twitter: reoxb
   facebook:
   google_plus:
   tumblr:
@@ -31,7 +31,7 @@ icons:
   stack_exchange:  # full URL
   steam:
   wordpress:
-  youtube:
+  youtube: MrSuarzs
 
 #
 # Prettify url.
@@ -68,7 +68,7 @@ paginate_path: page/:num
 #
 # Social.
 #
-share_buttons: false
+share_buttons: true
 ogp:
   image_url: http://qckanemoto.github.io/jekyll-qck-theme/assets/img/ogp.png
   fb:
