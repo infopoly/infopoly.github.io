@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Hello, Jekyll and QckTheme
-tags: hello jekyll theme
-eye_catch: http://jekyllrb.com/img/logo-2x.png
+title: replace
+tags: hello replace here
+#eye_catch: http://jekyllrb.com/img/logo-2x.png image_here!
 ---
 
 You can use most of standard Markdown features.
+
+-----
 
 ## List
 
@@ -37,6 +39,7 @@ You can use most of standard Markdown features.
 echo 'Hello, World!';
 ```
 
+
 ## Tables
 
 First Header  | Second Header
@@ -44,13 +47,16 @@ First Header  | Second Header
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
+
+
 ## Emoji
 
 You can use GitHub flavored emoji :+1:
 
-> **Note**  
+> **Note**
 > It's not a very good idea to use emoji before `<!--more-->` because jekyll can't render emoji in the excerpted content.
 
 ## See also
 
 [Markdown](http://daringfireball.net/projects/markdown/syntax)
+

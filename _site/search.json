@@ -1,33 +1,33 @@
 [
 
 {
-"id": "-jekyll-update-2015-08-06-welcome-to-jekyll",
-"title": "Welcome to Jekyll!",
+"id": "-2015-08-10-En-lugar-de-tv-deberias-ver",
+"title": "En lugar de Tv, deberías ver..",
 "author": null,
-"tags": [],
-"url": "/jekyll/update/2015/08/06/welcome-to-jekyll/",
-"date": "2015-08-06",
-"content": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.To add new posts, simply add a file in the _posts directory that follows the convention YYYY-MM-DD-name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.Jekyll also offers powerful support for code snippets:def print_hi(name)  puts &quot;Hi, #{name}&quot;endprint_hi(&#39;Tom&#39;)#=&gt; prints &#39;Hi, Tom&#39; to STDOUT.Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll’s dedicated Help repository."
+"tags": ["tv", "online", "tiempo-libre", "youtube", "cultura-general"],
+"url": "/2015/08/10/En-lugar-de-tv-deberias-ver/",
+"date": "2015-08-10",
+"content": "Aunque hay muchos que aseguran que la tv vive uno de sus mejores momentos, yo en verdadhace mucho que deje de ver televisión, el motivo es simple, conocí internet, y su capacidad de encontrar entretenimiento a mi gusto, a mis necesidades y que seajustara a mis horarios. Y mientras navega uno por ahí, se encuentra uno de noticiasy cosas, y bueno yo me encontré con tremenda pagina, aplicación o utilidad de la webustedes júzguenlo.&nbsp;&nbsp;En lugar de Tv, deberías ver... es una pagina web, con pequeños fragementos de video,100% educativos, donde podemos recrearnos, entretenernos y de paso aprender un poquito.La base de datos de los videos son los mismos que están en youtube, pero la diferencia,al parecer es que no tendremos que buscarlos nosotros mismos, si no que, son puestosa nuestra disposición a través de una pantalla la cual nos muestra el video,y de paso si no nos gusta el video podemos cambiarlo aleatoria-mente lo que da massorpresa al asunto.Sin lugar a dudas es una muy buena inversión de tiempo, y al menos los videos que he visto aunque están en ingles vienen subtitulados al español.Así que ya sabes... sí tienes tiempo libre y ganas de aprender algo nuevo y diferente está es muy buena opción."
 }, 
 
 {
-"id": "-2015-08-02-haciendo-lo-nuestro",
+"id": "-2015-08-05-Moocs-aprendizaje-independiente",
+"title": "MOOC's Aprendizaje Independiente.",
+"author": null,
+"tags": ["mooc", "cursos-online", "cursos", "tutoriales", "universidad", "cursos-complementarios", "tiempo-libre", "autodidacta"],
+"url": "/2015/08/05/Moocs-aprendizaje-independiente/",
+"date": "2015-08-05",
+"content": "Cuantas veces no te ha pasado, que tienes ganas de aprender algo nuevo o tal vez algo que te interesa pero en la universidad o el colegio en donde tú estudias no hay la manera, esto pasa frecuentemente en el mundillo de la programación, afortunadamente puedes siempre recurrir a vimeo, youtube, y otrosservidores de contenido multimedia para llenar ese hueco que no te tiene satisfecho.Pero que pasa si realmente quieres tomar un curso certificado, sobre tal tema, deseas que aparte deir aprendiendo a tu ritmo alguien mas evalúe tu aprendizaje. Bueno para eso existen los MOOC&#39;s.Gracias al Internet y la era de la información ésa ya hay excusa para no aprender, que lo mismo tomas un cursode ingles, que uno de programación del mas alto nivel. Hoy en día si en verdad deseasaprender algo nuevo o profundizar tus conocimientos sobre un tema, solo basta con ponerse manos a la obra,poco de tiempo, conexión a internet y un buen café, para tomar los cientos de cursos en linea que estándisponibles.¿Pero que es un MOOC? Las siglas MOOC, significan Massive open online course MOOC (acrónimo en inglés de Massive Open Online Course) es traducido ampliamente al español como Curso en Línea Masivo y Abierto ó tal vez Curso Online Masivo y Abierto, etc.Los MOOC pertenecen a una modalidad de educación abierta y a distancia."
+}, 
+
+{
+"id": "-2015-08-04-Haciendo-lo-nuestro",
 "title": "Haciendo lo nuestro...",
 "author": null,
-"tags": [],
-"url": "/2015/08/02/haciendo-lo-nuestro/",
-"date": "2015-08-02",
-"content": "\"La vida es vida y el dinero es dinero, dinero, dinero, dinero... aprende algo dinero.\"Existen muchas razones por las cuales me interesa escribir un blog, entre ellas la de realizar aportes utiles de informacionpara los que apenas empiezan en este mundillo, compartir puntos de vista acerca de uno u otro tema, generar pensamiento criticoen los lectores, etc. Pero la principal razon por la que hago esto es la de regresar a la comunidad un poco de lo que yo he recibido.La pagina va principalmente del lado de la tecnologia informatica, centrada principalmente en temas de interes, como las matematicas, la programacion, los algoritmos, etc. Los consejos, tips, tutoriales y demas, son sobre temas en los que estamos relacionados, practicamentesolo, nos dedicaremos a hacer lo nuestro. Hay cosas que no se pueden hacer con dinero, solo con voluntad y amor por lo que se hace.-Aprende algo dinero."
-}, 
-
-{
-"id": "-2015-01-01-hello",
-"title": "Hello, Jekyll and QckTheme",
-"author": null,
-"tags": ["hello", "jekyll", "theme"],
-"url": "/2015/01/01/hello/",
-"date": "2015-01-01",
-"content": "You can use most of standard Markdown features.Listfoobarindentationnesting indentationindentationbuzQuotequotenesting quotequoteStrikethroughMistaken text.Syntax highlighting&lt;?phpecho &#39;Hello, World!&#39;;TablesFirst HeaderSecond HeaderContent CellContent CellContent CellContent CellEmojiYou can use GitHub flavored emoji :+1:NoteIt&#39;s not a very good idea to use emoji before &lt;!--more--&gt; because jekyll can&#39;t render emoji in the excerpted content.See alsoMarkdown"
+"tags": ["hello_world", "primer_post", "jekyll"],
+"url": "/2015/08/04/Haciendo-lo-nuestro/",
+"date": "2015-08-04",
+"content": "&quot;La vida es vida y el dinero es dinero, dinero, dinero, dinero... aprende algo dinero.&quot;Existen muchas razones por las cuales me interesa escribir un blog, entre ellas la de realizar aportes útiles de informaciónpara los que apenas empiezan en este mundillo, compartir puntos de vista acerca de uno u otro tema, generar pensamiento criticoen los lectores, etc. Pero la principal razón por la que hago esto es la de regresar a la comunidad un poco de lo que yo he recibido.La pagina va principalmente del lado de la tecnología informática, centrada principalmente en temas de interés, como las matemáticas, la programación, los algoritmos, etc. Los consejos, tips, tutoriales y demás, son sobre temas en los que estamos relacionados, prácticamentesolo, nos dedicaremos a hacer lo nuestro.Hay cosas que no se pueden hacer con dinero, solo con voluntad y amor por lo que se hace.Aprende algo dinero."
 }
 
 ]
