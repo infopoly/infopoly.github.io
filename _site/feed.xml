@@ -5,8 +5,8 @@
     <description>Informacion que Sirve</description>
     <link>http://infopoly.github.io//</link>
     <atom:link href="http://infopoly.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Aug 2015 17:23:23 -0500</pubDate>
-    <lastBuildDate>Sun, 09 Aug 2015 17:23:23 -0500</lastBuildDate>
+    <pubDate>Sun, 09 Aug 2015 18:02:51 -0500</pubDate>
+    <lastBuildDate>Sun, 09 Aug 2015 18:02:51 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -17,7 +17,7 @@ ajustara a mis horarios. Y mientras navega uno por ahí, se encuentra uno de not
 y cosas, y bueno yo me encontré con tremenda pagina, aplicación o utilidad de la web
 ustedes júzguenlo.&lt;/p&gt;
 
-&lt;figure class=&#39;BetterTube&#39; data-youtube-id=&#39;NiYCgVKioI4&#39; data-player-width=&#39;560&#39; data-player-height=&#39;315&#39; id=&#39;NiYCgVKioI4&#39; style=&#39;padding-bottom: 56.25%&#39;&gt;&lt;a class=&#39;BetterTubePlayer&#39; href=&#39;http://www.youtube.com/watch?v=a_426RiwST8&#39; style=&#39;background: url(http://img.youtube.com/vi/NiYCgVKioI4/hqdefault.jpg) 50% 50% no-repeat rgb(0, 0, 0);&#39;&gt;&amp;nbsp;&lt;/a&gt;&lt;div class=&#39;BetterTube-playBtn&#39;&gt;&lt;/div&gt;&amp;nbsp;&lt;/figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NiYCgVKioI4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://unplugthetv.com/&quot;&gt;En lugar de Tv, deberías ver...&lt;/a&gt; es una pagina web, con pequeños fragementos de video,
 100% educativos, donde podemos recrearnos, entretenernos y de paso aprender un poquito.&lt;/p&gt;
