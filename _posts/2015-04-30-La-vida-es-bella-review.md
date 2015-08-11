@@ -1,13 +1,13 @@
 ---
 layout: post
-title: La vida es bella [Película] Review, Tit. Org. La vita è bella
-tags: reviews peliculas entretenimiento
+title: La vida es bella
+tags: reviews películas entretenimiento
 ---
 
-La Vida es Bella
+La vida es bella [Película] Review, Tit. Org. La vita è bella
 ------
 
-La vida es bella, es un homenaje a la vida, una película que aborda uno de los periodos mas amargos en la historia de la humanidad, el holocausto. La película esta muy bien protagonizada por el actor Roberto Benigni, el cual se nota, le imprime su toque personal a este melodrama, razón por la cual fue ganadora de tres óscar, la Mejor Banda Sonora, al Mejor Actor y a la Mejor Película Extranjera.
+La vida es bella, es un homenaje a la vida, una película que aborda uno de los periodos mas amargos en la historia de la humanidad, el holocausto. La película esta muy bien protagonizada por el actor Roberto Benigni, el cual se nota, le imprime su toque personal a este melodrama, razón por la cual fue ganadora de tres Óscar, la Mejor Banda Sonora, al Mejor Actor y a la Mejor Película Extranjera.
 
 > La vida es bella fue galardonada con más de 50 premios internacionales, entre los que se incluyen tres premios Óscar, el Gran Premio del Festival de Cannes, el César a la mejor película extranjera y el Goya a la mejor película europea.
 

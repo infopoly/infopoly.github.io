@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pequeños Problemas
-tags: matematicas frases quote
+tags: matemáticas frases quote
 ---
 
 Si señor nos debemos al descubrimiento.

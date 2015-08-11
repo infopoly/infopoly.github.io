@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Magma – Arte Mexicano
-tags: poésia arte mexicano
+tags: poesía arte mexicano
 ---
 
 >    Era toda vida; todo amor y le quise.
@@ -16,5 +16,5 @@ tags: poésia arte mexicano
 
 >    vomitó mi amor, mi aliento y mi fe.
 
-Ma. de Jesús Villalpando Gonzáles.
+Ma. de Jesús Villalpando González.
 
