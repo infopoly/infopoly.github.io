@@ -4,9 +4,9 @@ title: Satélites vida útil
 tags: Satélites ciencia youtube
 ---
 
-Science Quiz #04 - Satélites II: vida útil
-
+Science Quiz #04 - Satélites II: Vida útil.
 -----
+
 ¿Te has preguntado alguna vez cuál es la vida útil de los satélites o qué sucede con ellos una vez han dejado de funcionar?
 
 Esté capítulo de Science Quiz te ofrece las respuestas.
