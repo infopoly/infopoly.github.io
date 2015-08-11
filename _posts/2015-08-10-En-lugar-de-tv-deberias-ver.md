@@ -10,7 +10,7 @@ ajustara a mis horarios. Y mientras navega uno por ahí, se encuentra uno de not
 y cosas, y bueno yo me encontré con tremenda pagina, aplicación o utilidad de la web
 ustedes júzguenlo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NiYCgVKioI4" frameborder="0" allowfullscreen></iframe>
+{% youtube NiYCgVKioI4 %}
 
 [En lugar de Tv, deberías ver...](http://unplugthetv.com/) es una pagina web, con pequeños fragementos de video,
 100% educativos, donde podemos recrearnos, entretenernos y de paso aprender un poquito.
