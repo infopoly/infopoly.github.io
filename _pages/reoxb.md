@@ -15,7 +15,7 @@ share: false
 It's made by [@reoxb](https://twitter.com/reoxb).
 <p>Puedes seguirme en...</p>
 
-* [Facebook](http://www.facebook.com/infopoly)
+* [Facebook](http://www.facebook.com/infopoly.net)
 * [Twitter](http://www.twitter.com/reoxb)
 
 Ver proyectos de sofware o informaticos en [GitHub](https://github.com/reoxb).

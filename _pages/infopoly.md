@@ -44,7 +44,7 @@ It's made by [@reoxb](https://twitter.com/reoxb).
 	Debemos conocer nuestros propios problemas, solucionarlos y apartir de ahi creear cosas mejores.
 </p>
 
-¿Tienes sugerencias? Comenta a traves de: [GitHub](https://github.com/poole/poole/issues/new) ó [Twitter](https://twitter.com/reoxb).
+¿Tienes sugerencias? Comenta a traves de: [Twitter](https://twitter.com/reoxb).
 
 ##Gracias por tu visita!
 
