@@ -5,8 +5,8 @@
     <description>Informacion que Sirve</description>
     <link>http://infopoly.github.io//</link>
     <atom:link href="http://infopoly.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Aug 2015 00:15:59 -0500</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2015 00:15:59 -0500</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2015 04:10:37 -0500</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2015 04:10:37 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -117,6 +117,51 @@ solo, nos dedicaremos a hacer lo nuestro.&lt;/p&gt;
         <category>primer_post</category>
         
         <category>jekyll</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>¿Como es que funciona el internet?</title>
+        <description>&lt;p&gt;Bueno el internet es una red que utilizamos para consultar información, ver videos, contactar en nuestras redes sociales, etc.
+Pero además de eso el internet es una red de cables que une a todo el mundo, y en esa red básicamente están conectadas todas las computadoras,
+tu computadora con la computadora de tu vecino del lado izquierdo, el vecino con la de otro vecino y de esa manera sucesivamente hasta que el vecino
+del lado derecho este conectado contigo, y tu conexión le haya dado la vuelta al mundo y bueno eso suponiendo que tu vecino tenga internet, tengas vecinos, otros factores.&lt;/p&gt;
+
+&lt;p&gt;Una vez, que ya tenemos esta idea clara, el siguiente paso seria hablar de los protocolos de comunicación
+(un protocolo es un estándar definido para que dos maquinas se puedan comunicar entre sí.),
+ protocolos de navegación, protocolos de red, http://, ISDN, TCP, etc, etc.&lt;/p&gt;
+
+&lt;p&gt;Después tenemos la WWW. o se hace la World Wide Web. que básicamente es el la posibilidad de hipertexto es las paginas web,
+además de la red por la cual están conectadas. o se hace, la internet.&lt;/p&gt;
+
+&lt;p&gt;Aquí dejo esta serie de vídeos ilustrativos para ver como es que esto funciona:&lt;/p&gt;
+
+&lt;p&gt;Primera Parte.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/EYlCfOa-jHg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Segunda Parte.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3yZNj-ZHhCk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Tercera Parte.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gYGfLZsRvQ4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Disfruten!. Saludos.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Mar 2015 00:00:00 -0600</pubDate>
+        <link>http://infopoly.github.io//2015/03/23/Como-es-que-funciona-el-internet/</link>
+        <guid isPermaLink="true">http://infopoly.github.io//2015/03/23/Como-es-que-funciona-el-internet/</guid>
+        
+        <category>internet</category>
+        
+        <category>redes</category>
+        
+        <category>www</category>
+        
+        <category>web</category>
         
         
       </item>

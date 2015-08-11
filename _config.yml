@@ -47,8 +47,8 @@ disqus: infopolygithubio
 #
 # Localizations.
 #
-str_next: Next
-str_prev: Prev
+str_next: Siguiente
+str_prev: Anterior
 str_read_more: Leer más...
 str_search: Buscar...
 str_recent_posts: Posts Recientes
