@@ -1,6 +1,16 @@
 [
 
 {
+"id": "-2015-08-14-Sobre-software-llibre",
+"title": "Software Libre",
+"author": null,
+"tags": ["software-libre", "linux", "gnu", "ubuntu"],
+"url": "/2015/08/14/Sobre-software-llibre/",
+"date": "2015-08-14",
+"content": "Sobre Software LibreTal vez hoy en día ya no esta de moda hablar sobre software libre y pienso que la principal razón, es por que de cierta manera el software libre ya se ha ganado su lugar entre nosotros. Pero a pesar de que lo usamos en nuestra vida diaria, es bueno recordar algunos aspectos que hacen de nuestro software piezas de libertad.Software libre es la libertad de copiar, distribuir, ejecutar, estudiar, cambiar y modificar el software a nuestra libertad para satisfacer nuestras propias necesidades.4 libertades básicasLibertad de utilizar el programa, con cualquier propósitoLibertad de estudiar el programa y adaptarlo a nuestras necesidades.Libertad de distribuir copias, con lo que se puede reproducir de manera gratuita.Libertad de mejorar el programa y hacer públicas las mejoras, de modo que cualquiera se puede beneficiar.Cualquier programa puede llamarse a si mismo software libre si cumple con estas cuatro libertades.Software libre es como libertad de expresión, no es como comida gratis o regalada, la libertada que tenemos es la de utilizar el software para cualquier persona u organización y en cualquier tipo de sistema informático, para cualquier tipo de trabajo, sin tener la obligación de comunicarlo al programador o creador de este mismo.Para realizar las modificaciones del software se debe tener acceso al código fuente del programa y no solo a su ejecutable. Por lo que podemos leer, analizar ó estudiar el código para realizar las modificaciones pertinentes.Un ejemplo de software libre y sus beneficios, es la World Wide Web, ya que el código utilizado es transparente del lado del cliente, podemos analizar el código html, css o bien javascript, de aplicaciones web 2.0.El software libre hoy en día, esta en todos lados y es el camino mas corto para el desarrollo.¿Para que reinventar la rueda?.&nbsp;Copia, Modifica, Comparte."
+}, 
+
+{
 "id": "-2015-08-10-En-lugar-de-tv-deberias-ver",
 "title": "En lugar de Tv, deberías ver..",
 "author": null,
@@ -37,7 +47,7 @@
 "tags": ["copy_left", "copiar", "gnu"],
 "url": "/2015/07/07/Copiad_malditos/",
 "date": "2015-07-07",
-"content": "Acerca del Copyright y cosas del inframundo.*¿Porque copiar es bueno?En mi opinión todo es una copia, una calca con características heredadas, la evolución es una copia y remixeo,incluso tu idea mas original es el producto de otras ideas que ya fueron concebidaspero que al tu adoptarlas(cociente o inconscientemente) ahora tienen tu toque personal,esto significa que gracias a que copiamos podemos crecer como sociedad, así que siéntete librede remixiarlo todo aunque seas víctima de tu propia acción. Irónico no?&nbsp;"
+"content": "Acerca del Copyright y cosas del inframundo.¿Porque copiar es bueno?En mi opinión todo es una copia, una calca con características heredadas, la evolución es una copia y remixeo,incluso tu idea mas original es el producto de otras ideas que ya fueron concebidaspero que al tu adoptarlas(cociente o inconscientemente) ahora tienen tu toque personal,esto significa que gracias a que copiamos podemos crecer como sociedad, así que siéntete librede remixiarlo todo aunque seas víctima de tu propia acción. Irónico no?&nbsp;"
 }, 
 
 {
@@ -108,6 +118,16 @@
 "url": "/2015/04/13/Tecnologia-de-Punta/",
 "date": "2015-04-13",
 "content": "Rusia a través de RT en Español.Rusia es un lugar muy alejado de nuestros vecinos del norte(usa), pero también allá, se están llevando a cabo investigaciones, desarrollo científico y tecnológico y RT hace un esfuerzo por traernos a Rusia hasta nuestros hogares. Gracias a las bondades del internet y en particular a youtube.&nbsp;"
+}, 
+
+{
+"id": "-2015-04-10-Curso-android-UPV",
+"title": "Curso Android UPV",
+"author": null,
+"tags": ["android", "tutorial", "develop", "programación"],
+"url": "/2015/04/10/Curso-android-UPV/",
+"date": "2015-04-10",
+"content": "Curso de Desarrollo de Aplicaciones Android por la UPVLa Universidad Politécnica de Valencia, ofrece muchos de los cursos que imparte dentro de su Facultad,a través de la enseñanza en linea, siguiendo la filosofía GNU/Linux y cursos MOOC,estos cursos se pueden compartir. Están en español y la verdad son muy buenos. Debemos recordar que es muy difícil encontrar material en español para aprender a desarrollar en android. Así que.“A aprovechar este magnifico curso…”&nbsp;"
 }, 
 
 {
