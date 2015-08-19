@@ -1,13 +1,23 @@
 [
 
 {
+"id": "-2015-08-19-Daftcon",
+"title": "Defcon-Hack",
+"author": null,
+"tags": ["hackers", "deftcon", "documental", "informatica"],
+"url": "/2015/08/19/Daftcon/",
+"date": "2015-08-19",
+"content": "Defcon fiesta de hackers.Buen documental que muestra una parte importante sobre los miticos, hackers, ¿existen?, ¿no existen?, ¿viven solo en nuestros sueños? ó ¿quizas hacen fiestas en las vegas para compartir tecnicas de hackeo?. Bueno al parecer hacen fiestas en las vegas.Cada año se lleva a cabo la fiesta de hackers deftcon (o dicho de otro modo la convencion de hackers mas grande del mundo), en la cual miles de hackers de todo el mundo se reunen para compartir sus conocimientos, pasar el rato y demostrar de que estan hechos.Dejo aquí el siguente video para que lo compruben por ustedes mismos.Los hackers estan ahi afuera y hacen fietas.  &nbsp;Disfruta el video y comparte."
+}, 
+
+{
 "id": "-2015-08-18-Ciencia-Es",
 "title": "Ciencia para llevar",
 "author": null,
 "tags": ["ciencia", "ocio", "divulgación-cientifica"],
 "url": "/2015/08/18/Ciencia-Es/",
 "date": "2015-08-18",
-"content": "Ciencia y genios | Podcasts de CienciaCuantas veces no ha pasado que vas en el transporte publico ó sales de viaje y para llegar a tu destino pierdes valiosas horas de tu vida. Y por supuesto que desearías que haber invertido ese tiempo perdido aprendiendo algo nuevo, ya sea un idioma, ó aprendiendo un poco de historia, etc.Gracias a cienciaes.com es posible utilizar ese tiempo para aprender sobre personajes de ciencia, física, matemáticas, etc. En las voces de los propios personajes (gracias a un guion muy bien elaborado). Como la introducción del podcast lo indica, ciencia y genios es un espacio de cienciaes.com para divulgar el lado humano de los grandes mentes que hicieron posible el desarrollo científico.Ciencia y geniosLas mentes más claras de la historia han ido tejiendo poco a poco la intrincada tela de araña del conocimiento científico. De aquellos y aquellas que destacaron por encima de otros hablamos aquí. Con una frecuencia quincenal, les ofreceremos la biografía de un gran sabio escrita por varios autores. Todas ellas se van sumando a nuestro podcast Ciencia y Genios.Algunos programas.Ciencia y geniosUlises y la cienciaHablando con científicosCiencia nuestra de cada día*Recuerda que también es posible descargar el podcast para escucharlos modo offline."
+"content": "Ciencia y genios | Podcasts de CienciaCuantas veces no ha pasado que vas en el transporte publico ó sales de viaje y para llegar a tu destino pierdes valiosas horas de tu vida. Y por supuesto que desearías haber invertido ese tiempo perdido aprendiendo algo nuevo, ya sea un idioma, ó aprendiendo un poco de historia, etc.Gracias a cienciaes.com es posible utilizar ese tiempo para aprender sobre personajes de ciencia, física, matemáticas, etc., en voces de los propios personajes (gracias a un guion muy bien elaborado).Como la introducción del podcast lo indica, ciencia y genios es un espacio de cienciaes.com para divulgar el lado humano de las grandes mentes que hicieron posible el desarrollo científico.Ciencia y geniosLas mentes más claras de la historia han ido tejiendo poco a poco la intrincada tela de araña del conocimiento científico. De aquellos y aquellas que destacaron por encima de otros hablamos aquí. Con una frecuencia quincenal, les ofreceremos la biografía de un gran sabio escrita por varios autores. Todas ellas se van sumando a nuestro podcast Ciencia y Genios.Algunos programas.Ciencia y geniosUlises y la cienciaHablando con científicosCiencia nuestra de cada día*Recuerda que también es posible descargar el podcast para escucharlos modo offline."
 }, 
 
 {
@@ -18,6 +28,16 @@
 "url": "/2015/08/14/Sobre-software-llibre/",
 "date": "2015-08-14",
 "content": "Sobre Software LibreTal vez hoy en día ya no esta de moda hablar sobre software libre y pienso que la principal razón, es por que de cierta manera el software libre ya se ha ganado su lugar entre nosotros. Pero a pesar de que lo usamos en nuestra vida diaria, es bueno recordar algunos aspectos que hacen de nuestro software piezas de libertad.Software libre es la libertad de copiar, distribuir, ejecutar, estudiar, cambiar y modificar el software a nuestra libertad para satisfacer nuestras propias necesidades.4 libertades básicasLibertad de utilizar el programa, con cualquier propósitoLibertad de estudiar el programa y adaptarlo a nuestras necesidades.Libertad de distribuir copias, con lo que se puede reproducir de manera gratuita.Libertad de mejorar el programa y hacer públicas las mejoras, de modo que cualquiera se puede beneficiar.Cualquier programa puede llamarse a si mismo software libre si cumple con estas cuatro libertades.Software libre es como libertad de expresión, no es como comida gratis o regalada, la libertada que tenemos es la de utilizar el software para cualquier persona u organización y en cualquier tipo de sistema informático, para cualquier tipo de trabajo, sin tener la obligación de comunicarlo al programador o creador de este mismo.Para realizar las modificaciones del software se debe tener acceso al código fuente del programa y no solo a su ejecutable. Por lo que podemos leer, analizar ó estudiar el código para realizar las modificaciones pertinentes.Un ejemplo de software libre y sus beneficios, es la World Wide Web, ya que el código utilizado es transparente del lado del cliente, podemos analizar el código html, css o bien javascript, de aplicaciones web 2.0.El software libre hoy en día, esta en todos lados y es el camino mas corto para el desarrollo.¿Para que reinventar la rueda?.&nbsp;Copia, Modifica, Comparte."
+}, 
+
+{
+"id": "-2015-08-13-Preguntas-SL",
+"title": "Preguntas Frecuentes del Software Libre",
+"author": null,
+"tags": ["software-libre", "gnu", "cultura-libre"],
+"url": "/2015/08/13/Preguntas-SL/",
+"date": "2015-08-13",
+"content": "¿Es seguro utilizar software libre?Es software totalmente seguro siempre que se descargue desde una fuente fiable. Al contrario de lo que pueda parecer, el hecho de que todo el mundo tenga acceso al código fuente ayuda a que los errores se puedan encontrar y solucionar antes; ya que es muy habitual que haya una comunidad de desarrolladores detrás de cada proyecto que lo mantienen.¿El software libre es gratuito?No necesariamente. Más arriba hemos visto las 4 características que tiene el software libre; y ninguna está relacionada con el precio. Si bien, en la mayoría de casos sobretodo a nivel de usuario doméstico, sí coincide que es gratuito. Pero cualquier persona podría vender software libre.¿Quién desarrolla software libre?La mayoría de proyectos pequeños los desarrollan comunidades de aficionados que sienten pasión por este tipo de filosofía altruista que sigue el software libre y desean aportar su conocimiento para mejorar la sociedad. En los proyectos grandes, existen grandes empresas con presupuestos destinados al desarrollo de aplicaciones; por ejemplo programas como Firefox y OpenOffice¿Cómo ganan dinero los desarrolladores de software libre?En el software libre sí se gana dinero. Pero normalmente enfocado a nivel empresarial. No se gana dinero con licencias (el software suele ser gratuito) sino con servicios añadidos: modificaciones para personalizar el funcionamiento del programa, cursos de aprendizaje, etc. El tema es muy extenso, y tenemos un artículo que habla más sobre cómo ganan dinero los desarrolladores de software libre."
 }, 
 
 {
@@ -48,6 +68,16 @@
 "url": "/2015/08/04/Haciendo-lo-nuestro/",
 "date": "2015-08-04",
 "content": "&quot;La vida es vida y el dinero es dinero, dinero, dinero, dinero... aprende algo dinero.&quot;Existen muchas razones por las cuales me interesa escribir un blog, entre ellas la de realizar aportes útiles de informaciónpara los que apenas empiezan en este mundillo, compartir puntos de vista acerca de uno u otro tema, generar pensamiento criticoen los lectores, etc. Pero la principal razón por la que hago esto es la de regresar a la comunidad un poco de lo que yo he recibido.La pagina va principalmente del lado de la tecnología informática, centrada principalmente en temas de interés, como las matemáticas, la programación, los algoritmos, etc. Los consejos, tips, tutoriales y demás, son sobre temas en los que estamos relacionados, prácticamentesolo, nos dedicaremos a hacer lo nuestro.Hay cosas que no se pueden hacer con dinero, solo con voluntad y amor por lo que se hace.Aprende algo dinero."
+}, 
+
+{
+"id": "-2015-07-22-Mejores-Universidades-SL-2015",
+"title": "Mejores Universidades Hispanoamericanas en software libre 2015",
+"author": null,
+"tags": ["software-libre", "gnu", "linux", "2015"],
+"url": "/2015/07/22/Mejores-Universidades-SL-2015/",
+"date": "2015-07-22",
+"content": "Ranking Universidades Software LibreAlguna vez te haz preguntado ¿Cuales son las universidades que mas apoyan al Software Libre en Latinoamerica?. Bueno en corto la respuesta."
 }, 
 
 {

@@ -5,17 +5,49 @@
     <description>Informacion que Sirve</description>
     <link>http://infopoly.github.io//</link>
     <atom:link href="http://infopoly.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Aug 2015 16:26:24 -0500</pubDate>
-    <lastBuildDate>Tue, 18 Aug 2015 16:26:24 -0500</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2015 00:21:56 -0500</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2015 00:21:56 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Defcon-Hack</title>
+        <description>&lt;h2 id=&quot;defcon-fiesta-de-hackers&quot;&gt;Defcon fiesta de hackers.&lt;/h2&gt;
+
+&lt;p&gt;Buen documental que muestra una parte importante sobre los miticos, hackers, ¿existen?, ¿no existen?, ¿viven solo en nuestros sueños? ó ¿quizas hacen fiestas en las vegas para compartir tecnicas de hackeo?. Bueno al parecer hacen fiestas en las vegas.&lt;/p&gt;
+
+&lt;p&gt;Cada año se lleva a cabo la fiesta de hackers deftcon (o dicho de otro modo la convencion de hackers mas grande del mundo), en la cual miles de hackers de todo el mundo se reunen para compartir sus conocimientos, pasar el rato y demostrar de que estan hechos.&lt;/p&gt;
+
+&lt;p&gt;Dejo aquí el siguente video para que lo compruben por ustedes mismos.
+Los hackers estan ahi afuera y hacen fietas.  &lt;/p&gt;
+
+&lt;figure class=&#39;BetterTube&#39; data-youtube-id=&#39;sbWWri57KuE&#39; data-player-width=&#39;560&#39; data-player-height=&#39;315&#39; id=&#39;sbWWri57KuE&#39; style=&#39;padding-bottom: 56.25%&#39;&gt;&lt;a class=&#39;BetterTubePlayer&#39; href=&#39;http://www.youtube.com/watch?v=a_426RiwST8&#39; style=&#39;background: url(http://img.youtube.com/vi/sbWWri57KuE/hqdefault.jpg) 50% 50% no-repeat rgb(0, 0, 0);&#39;&gt;&lt;/a&gt;&lt;div class=&#39;BetterTube-playBtn&#39;&gt;&lt;/div&gt;&amp;nbsp;&lt;/figure&gt;
+
+&lt;p&gt;Disfruta el video y comparte.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Aug 2015 00:00:00 -0500</pubDate>
+        <link>http://infopoly.github.io//2015/08/19/Daftcon/</link>
+        <guid isPermaLink="true">http://infopoly.github.io//2015/08/19/Daftcon/</guid>
+        
+        <category>hackers</category>
+        
+        <category>deftcon</category>
+        
+        <category>documental</category>
+        
+        <category>informatica</category>
+        
+        
+      </item>
     
       <item>
         <title>Ciencia para llevar</title>
         <description>&lt;h2 id=&quot;ciencia-y-genios-podcasts-de-ciencia&quot;&gt;Ciencia y genios | Podcasts de Ciencia&lt;/h2&gt;
 
-&lt;p&gt;Cuantas veces no ha pasado que vas en el transporte publico ó sales de viaje y para llegar a tu destino pierdes valiosas horas de tu vida. Y por supuesto que desearías que haber invertido ese tiempo perdido aprendiendo algo nuevo, ya sea un idioma, ó aprendiendo un poco de historia, etc.&lt;/p&gt;
+&lt;p&gt;Cuantas veces no ha pasado que vas en el transporte publico ó sales de viaje y para llegar a tu destino pierdes valiosas horas de tu vida. Y por supuesto que desearías haber invertido ese tiempo perdido aprendiendo algo nuevo, ya sea un idioma, ó aprendiendo un poco de historia, etc.&lt;/p&gt;
 
-&lt;p&gt;Gracias a &lt;a href=&quot;http://cienciaes.com/biografias/&quot;&gt;cienciaes.com&lt;/a&gt; es posible utilizar ese tiempo para aprender sobre personajes de ciencia, física, matemáticas, etc. En las voces de los propios personajes (gracias a un guion muy bien elaborado). Como la introducción del podcast lo indica, ciencia y genios es un espacio de &lt;a href=&quot;http://cienciaes.com/biografi%C3%A1s/&quot;&gt;cienciaes.com&lt;/a&gt; para divulgar el lado humano de los grandes mentes que hicieron posible el desarrollo científico.&lt;/p&gt;
+&lt;p&gt;Gracias a &lt;a href=&quot;http://cienciaes.com/biografias/&quot;&gt;cienciaes.com&lt;/a&gt; es posible utilizar ese tiempo para aprender sobre personajes de ciencia, física, matemáticas, etc., en voces de los propios personajes (gracias a un guion muy bien elaborado).&lt;/p&gt;
+
+&lt;p&gt;Como la introducción del podcast lo indica, ciencia y genios es un espacio de &lt;a href=&quot;http://cienciaes.com/biografi%C3%A1s/&quot;&gt;cienciaes.com&lt;/a&gt; para divulgar el lado humano de las grandes mentes que hicieron posible el desarrollo científico.&lt;/p&gt;
 
 &lt;h2 id=&quot;ciencia-y-genios&quot;&gt;Ciencia y genios&lt;/h2&gt;
 
@@ -92,6 +124,37 @@
         <category>gnu</category>
         
         <category>ubuntu</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Preguntas Frecuentes del Software Libre</title>
+        <description>&lt;h3 id=&quot;¿es-seguro-utilizar-software-libre&quot;&gt;¿Es seguro utilizar software libre?&lt;/h3&gt;
+
+&lt;p&gt;Es software totalmente seguro siempre que se descargue desde una fuente fiable. Al contrario de lo que pueda parecer, el hecho de que todo el mundo tenga acceso al código fuente ayuda a que los errores se puedan encontrar y solucionar antes; ya que es muy habitual que haya una comunidad de desarrolladores detrás de cada proyecto que lo mantienen.&lt;/p&gt;
+
+&lt;h3 id=&quot;¿el-software-libre-es-gratuito&quot;&gt;¿El software libre es gratuito?&lt;/h3&gt;
+
+&lt;p&gt;No necesariamente. Más arriba hemos visto las 4 características que tiene el software libre; y ninguna está relacionada con el precio. Si bien, en la mayoría de casos sobretodo a nivel de usuario doméstico, sí coincide que es gratuito. Pero cualquier persona podría vender software libre.&lt;/p&gt;
+
+&lt;h3 id=&quot;¿quién-desarrolla-software-libre&quot;&gt;¿Quién desarrolla software libre?&lt;/h3&gt;
+
+&lt;p&gt;La mayoría de proyectos pequeños los desarrollan comunidades de aficionados que sienten pasión por este tipo de filosofía altruista que sigue el software libre y desean aportar su conocimiento para mejorar la sociedad. En los proyectos grandes, existen grandes empresas con presupuestos destinados al desarrollo de aplicaciones; por ejemplo programas como Firefox y OpenOffice&lt;/p&gt;
+
+&lt;h3 id=&quot;¿cómo-ganan-dinero-los-desarrolladores-de-software-libre&quot;&gt;¿Cómo ganan dinero los desarrolladores de software libre?&lt;/h3&gt;
+
+&lt;p&gt;En el software libre sí se gana dinero. Pero normalmente enfocado a nivel empresarial. No se gana dinero con licencias (el software suele ser gratuito) sino con servicios añadidos: modificaciones para personalizar el funcionamiento del programa, cursos de aprendizaje, etc. El tema es muy extenso, y tenemos un artículo que habla más sobre cómo ganan dinero los desarrolladores de software libre.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Aug 2015 00:00:00 -0500</pubDate>
+        <link>http://infopoly.github.io//2015/08/13/Preguntas-SL/</link>
+        <guid isPermaLink="true">http://infopoly.github.io//2015/08/13/Preguntas-SL/</guid>
+        
+        <category>software-libre</category>
+        
+        <category>gnu</category>
+        
+        <category>cultura-libre</category>
         
         
       </item>
@@ -209,6 +272,30 @@ solo, nos dedicaremos a hacer lo nuestro.&lt;/p&gt;
       </item>
     
       <item>
+        <title>Mejores Universidades Hispanoamericanas en software libre 2015</title>
+        <description>&lt;h2 id=&quot;ranking-universidades-software-libre&quot;&gt;Ranking Universidades Software Libre&lt;/h2&gt;
+
+&lt;p&gt;Alguna vez te haz preguntado ¿Cuales son las universidades que mas apoyan al Software Libre en Latinoamerica?. 
+Bueno en corto la respuesta.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.portalprogramas.com/software-libre/ranking-universidades/&quot; title=&quot;Las universidades en software libre - PortalProgramas&quot;&gt;&lt;img src=&quot;http://cdn6.portalprogramasnet.com/imagenes/ranking-universidades/2015/mejores-universidades-hispanoamericanas-software-libre.png&quot; alt=&quot;Las universidades en software libre - PortalProgramas&quot; height=&quot;2564&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Jul 2015 00:00:00 -0500</pubDate>
+        <link>http://infopoly.github.io//2015/07/22/Mejores-Universidades-SL-2015/</link>
+        <guid isPermaLink="true">http://infopoly.github.io//2015/07/22/Mejores-Universidades-SL-2015/</guid>
+        
+        <category>software-libre</category>
+        
+        <category>gnu</category>
+        
+        <category>linux</category>
+        
+        <category>2015</category>
+        
+        
+      </item>
+    
+      <item>
         <title>Copiad Malditos – Di no al Copyright</title>
         <description>&lt;p&gt;Acerca del Copyright y cosas del inframundo.&lt;/p&gt;
 
@@ -264,87 +351,6 @@ de remixiarlo todo aunque seas víctima de tu propia acción. Irónico no?&lt;/p
         <category>arte</category>
         
         <category>mexicano</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Satélites vida útil</title>
-        <description>&lt;h2 id=&quot;science-quiz-04-satélites-ii-vida-útil&quot;&gt;Science Quiz #04 - Satélites II: Vida útil.&lt;/h2&gt;
-
-&lt;p&gt;¿Te has preguntado alguna vez cuál es la vida útil de los satélites o qué sucede con ellos una vez han dejado de funcionar?&lt;/p&gt;
-
-&lt;p&gt;Esté capítulo de Science Quiz te ofrece las respuestas.&lt;/p&gt;
-
-&lt;figure class=&#39;BetterTube&#39; data-youtube-id=&#39;6X7OHP8tlMo&#39; data-player-width=&#39;560&#39; data-player-height=&#39;315&#39; id=&#39;6X7OHP8tlMo&#39; style=&#39;padding-bottom: 56.25%&#39;&gt;&lt;a class=&#39;BetterTubePlayer&#39; href=&#39;http://www.youtube.com/watch?v=a_426RiwST8&#39; style=&#39;background: url(http://img.youtube.com/vi/6X7OHP8tlMo/hqdefault.jpg) 50% 50% no-repeat rgb(0, 0, 0);&#39;&gt;&lt;/a&gt;&lt;div class=&#39;BetterTube-playBtn&#39;&gt;&lt;/div&gt;&amp;nbsp;&lt;/figure&gt;
-</description>
-        <pubDate>Mon, 01 Jun 2015 00:00:00 -0500</pubDate>
-        <link>http://infopoly.github.io//2015/06/01/Que-pasa-con-los-satelites/</link>
-        <guid isPermaLink="true">http://infopoly.github.io//2015/06/01/Que-pasa-con-los-satelites/</guid>
-        
-        <category>Satélites</category>
-        
-        <category>ciencia</category>
-        
-        <category>youtube</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Pequeños Problemas</title>
-        <description>&lt;h2 id=&quot;si-señor-nos-debemos-al-descubrimiento&quot;&gt;Si señor nos debemos al descubrimiento.&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Un gran descubrimiento resuelve un gran problema, pero hay un grano de descubrimiento en la solución de cualquier problema.
-El problema del lector puede ser modesto, pero desafía su curiosidad y pone en juego sus facultades inventivas;
-si lo resuelve por sí solo puede experimentar la tensión y disfrutar el triunfo del descubrimiento.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Sun, 24 May 2015 00:00:00 -0500</pubDate>
-        <link>http://infopoly.github.io//2015/05/24/Frase-motivadora/</link>
-        <guid isPermaLink="true">http://infopoly.github.io//2015/05/24/Frase-motivadora/</guid>
-        
-        <category>matemáticas</category>
-        
-        <category>frases</category>
-        
-        <category>quote</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Añoranzas...</title>
-        <description>&lt;h2 id=&quot;añoranzas-la-música-que-definió-una-época-en-latinoamérica&quot;&gt;Añoranzas, la música que definió una época en latinoamérica.&lt;/h2&gt;
-
-&lt;p&gt;Pocas veces tengo el gusto de presenciar en televisión un programa que disfrute todos los minutos que dura el mismo, este es el caso con el programa de televisión añoranzas conducido por Jorge Saldaña, quien fue periodista, cronista y escritor veracruzano, Jorge Saldaña le da un toque de madurez al asunto musical y por supuesto, creo yo, imprime su sello conocedor en la música que es escogida en cada programa.&lt;/p&gt;
-
-&lt;p&gt;Lamentablemente el señor Jorge Saldaña ya no, nos acompañara en este largo camino llamado vida, pero nos deja su aporte, con sus homenajes a la música latinoamericana.&lt;/p&gt;
-
-&lt;p&gt;Canal Once, propiedad del Instituto Politécnico Nacional, pone en nuestras manos, la brillante calidad del material del programa Añoranzas, visible para todo publico a través la difusión del contenido de ese canal.&lt;/p&gt;
-
-&lt;figure class=&#39;BetterTube&#39; data-youtube-id=&#39;9IdLbmD2sJs&#39; data-player-width=&#39;560&#39; data-player-height=&#39;315&#39; id=&#39;9IdLbmD2sJs&#39; style=&#39;padding-bottom: 56.25%&#39;&gt;&lt;a class=&#39;BetterTubePlayer&#39; href=&#39;http://www.youtube.com/watch?v=a_426RiwST8&#39; style=&#39;background: url(http://img.youtube.com/vi/9IdLbmD2sJs/hqdefault.jpg) 50% 50% no-repeat rgb(0, 0, 0);&#39;&gt;&lt;/a&gt;&lt;div class=&#39;BetterTube-playBtn&#39;&gt;&lt;/div&gt;&amp;nbsp;&lt;/figure&gt;
-
-&lt;p&gt;Espero que disfruten de esta brillante colección de programas de televisión y nos compartan en los comentarios sobre intentos en latinoamérica del tributo de la música en español.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Gracias Jorge, “Sos grande”.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Sun, 10 May 2015 00:00:00 -0500</pubDate>
-        <link>http://infopoly.github.io//2015/05/10/Anyoranzas-musica/</link>
-        <guid isPermaLink="true">http://infopoly.github.io//2015/05/10/Anyoranzas-musica/</guid>
-        
-        <category>youtube</category>
-        
-        <category>música</category>
-        
-        <category>añoranzas</category>
-        
-        <category>canal_once</category>
-        
-        <category>once_tv</category>
         
         
       </item>
