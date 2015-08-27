@@ -5,9 +5,42 @@
     <description>Informacion que Sirve</description>
     <link>http://infopoly.github.io//</link>
     <atom:link href="http://infopoly.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Aug 2015 18:09:57 -0500</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2015 18:09:57 -0500</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2015 16:08:27 -0500</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2015 16:08:27 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Software Libre para Universidades</title>
+        <description>&lt;h2 id=&quot;tecnologías-de-código-libre-y-abierto-para-universidades&quot;&gt;Tecnologías de código libre y abierto para universidades.&lt;/h2&gt;
+
+&lt;p&gt;Hace tiempo, me encontraba escogiendo un plan de estudios adecuado para la carrera que deseaba estudiar, (informática, para los que no sepan la inclinación del blog). Y recuerdo que en esos momentos me parecían muy interesantes planes de estudios de algunas carreras universitarias, el principal motivo era porque incluían la enseñanza de materias cuyo nombre era algún tipo de software al cual yo le veía aplicación inmediata, por ejemplo la materia de tercer nivel Corel Draw, Edición con Adobe II, Animación con Flash, Desarrollo de Aplicaciones Mobiles para Iphone, entre otras tantas. La verdad me gusto la idea de que enseñaran algo que pudiera usar inmediatamente. Después con los años mi concepción de lo que es una carrera universitaria cambio totalmente, tener un plan de estudios con materias que aportaran en mi pensamiento matemático y computacional se volvió prioridad, ya no me interesaba aprender tecnologías (lo cual me parecía muy cambiante), en su lugar prefería desarrollarlas.&lt;/p&gt;
+
+&lt;p&gt;Ser un Ingeniero en Sistemas Computacionales integral, significa tener sólidos conocimientos en el área para comprender el funcionamiento mínimo de un computador. Por ejemplo comprender el funcionamiento del reloj, el porqué diferentes tipos de instrucciones tardan más tiempo en ejecutarse que otras y cómo el movimiento físico de las cabezas de los discos retrasan el procesado de la información, uso de redes, etc. Ese conocimiento es necesario para el desarrollo de nuevas tecnologías.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://openclipart.org/image/250px/svg_to_png/193554/cyberscooty-tux-graduate.png&quot; alt=&quot;Tux graduate&quot; title=&quot;Tux graduate by  cyberscooty ( https://openclipart.org/user-detail/cyberscooty )&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hoy día, muchas universidades incluyen en sus planes de estudio la enseñanza de tecnologías del momento. Lo cual me parece un poco grave, pero es lo que demanda el mercado cierto?. Bueno creo que estás tecnologías bien se pueden aprender en cursos externos y eliminarlas de las universidades.&lt;/p&gt;
+
+&lt;p&gt;Pero lo que me parece mas grave de todo es que se preparen personas con dependencia a &amp;quot;x&amp;quot; o &amp;quot;y&amp;quot; productos de software privativos. Las universidades deberían enseñar planes de estudio integrales y en caso de necesitar recurrir al software libre. Hay marcas que una empresa desarrolla que se asocian con un ingeniero, por ejemplo un arquitecto con Autodesk o con CAD, y si no domina el software es difícil que pueda conseguir un trabajo. En algunas ocasiones dichas empresas regalan su software a estudiantes para crear una cierta dependencia y el caso seria como dice Stallman: &amp;quot;es como enseñarle a fumar a un niño en un mundo en donde solo hay un proveedor de cigarros&amp;quot;, es muy obvio que con el tiempo será adicto y no habrá retorno.&lt;/p&gt;
+
+&lt;p&gt;Las universidades a diferencia de otros centros de estudio superior, regresan cultura, conocimiento y desarrollo a la sociedad. (Hay algunas universidades que no pueden llamarse universidades.). En México por ejemplo las universidades realizan algún tipo de servicio social, apoyo en comunidades, brigadas de salud, etc. El software privativo no contribuye a la sociedad, contribuye a una corporación, cuyo fin es el enriquecimiento, mientras que el desarrollo de software libre pertenece al publico en general entre ellos la sociedad.&lt;/p&gt;
+
+&lt;p&gt;La base del desarrollo de las sociedades es la educación, solo la educación puede liberarnos y solo la buena educación no hará mejores individuos y por ende una mejor sociedad.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Aug 2015 00:00:00 -0500</pubDate>
+        <link>http://infopoly.github.io//2015/08/27/Codigo-libre-universidades/</link>
+        <guid isPermaLink="true">http://infopoly.github.io//2015/08/27/Codigo-libre-universidades/</guid>
+        
+        <category>gnu</category>
+        
+        <category>linux</category>
+        
+        <category>software</category>
+        
+        <category>universidades</category>
+        
+        
+      </item>
     
       <item>
         <title>¿Qué es tor? y ¿Cómo funciona?</title>
@@ -322,35 +355,6 @@ Bueno en corto la respuesta.&lt;/p&gt;
         <category>linux</category>
         
         <category>2015</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Copiad Malditos – Di no al Copyright</title>
-        <description>&lt;p&gt;Acerca del Copyright y cosas del inframundo.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h1 id=&quot;¿porque-copiar-es-bueno&quot;&gt;¿Porque copiar es bueno?&lt;/h1&gt;
-
-&lt;p&gt;En mi opinión todo es una copia, una calca con características heredadas, la evolución es una copia y remixeo,
-incluso tu idea mas original es el producto de otras ideas que ya fueron concebidas
-pero que al tu adoptarlas(cociente o inconscientemente) ahora tienen tu toque personal,
-esto significa que gracias a que copiamos podemos crecer como sociedad, así que siéntete libre
-de remixiarlo todo aunque seas víctima de tu propia acción. Irónico no?&lt;/p&gt;
-
-&lt;figure class=&#39;BetterTube&#39; data-youtube-id=&#39;xyvr-q8g2EA&#39; data-player-width=&#39;560&#39; data-player-height=&#39;315&#39; id=&#39;xyvr-q8g2EA&#39; style=&#39;padding-bottom: 56.25%&#39;&gt;&lt;a class=&#39;BetterTubePlayer&#39; href=&#39;http://www.youtube.com/watch?v=a_426RiwST8&#39; style=&#39;background: url(http://img.youtube.com/vi/xyvr-q8g2EA/hqdefault.jpg) 50% 50% no-repeat rgb(0, 0, 0);&#39;&gt;&lt;/a&gt;&lt;div class=&#39;BetterTube-playBtn&#39;&gt;&lt;/div&gt;&amp;nbsp;&lt;/figure&gt;
-</description>
-        <pubDate>Tue, 07 Jul 2015 00:00:00 -0500</pubDate>
-        <link>http://infopoly.github.io//2015/07/07/Copiad_malditos/</link>
-        <guid isPermaLink="true">http://infopoly.github.io//2015/07/07/Copiad_malditos/</guid>
-        
-        <category>copy_left</category>
-        
-        <category>copiar</category>
-        
-        <category>gnu</category>
         
         
       </item>
