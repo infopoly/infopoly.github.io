@@ -5,27 +5,103 @@
     <description>Informacion que Sirve</description>
     <link>http://infopoly.github.io//</link>
     <atom:link href="http://infopoly.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Aug 2015 16:08:27 -0500</pubDate>
-    <lastBuildDate>Thu, 27 Aug 2015 16:08:27 -0500</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2015 17:26:50 -0500</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2015 17:26:50 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Aprende a programar</title>
+        <description>&lt;h2 id=&quot;todo-el-mundo-debería-saber-programar&quot;&gt;Todo el mundo debería saber programar&lt;/h2&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//Hola mundo en javascript&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt;    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;hola&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hola Mundo!&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt;    &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hola&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;button onclick=&quot;window.alert(&#39;Hola Mundo!&#39;)&quot;&gt; Presioname!!! &lt;/button&gt;&lt;/p&gt;
+
+&lt;p&gt;Todo el mundo debería saber programar: Es un esfuerzo por parte de &lt;a href=&quot;https://code.org/&quot;&gt;code.org&lt;/a&gt;, para darnos a conocer las ventajas de enseñar la programación desde los niveles mas bajos de educación.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/img/resourcesIMG/programares.jpg&quot; alt=&quot;Programar&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Entre los que se atribuye que:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Aprender a programar ayuda a solucionar problemas:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;No solo hace posible que los pequeños acaben aprendiendo lo suficiente para resolver problemas complejos, aprovechar la creatividad para productos reales o automatizar tareas a través de la programación de ordenadores, sino que muchos de los principios de la programación pueden ser utilizados para solucionar problemas en la vida real.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Es como aprender un idioma más:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Los juegos y los lenguajes de programación visuales permiten a los niños entender la lógica de la programación y sus conceptos antes incluso de que los niños puedan leer. Las técnicas y lenguajes utilizados (Scratch es un ejemplo cada vez más popular) están orientados a niños, y son un paso básico que ayudará a aprender más adelante lenguajes de programación tradicionales.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Todos en este país deberían saber cómo programar una computadora… porque te enseña a pensar” – Steve Jobs&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;La diversidad es ventajosa para los niños:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aprender materias distintas como las que se imparten en los cursos de programación amplía la capacidad de los pequeños, y ayuda a que éstos piensen y se enfrenten mejor a los problemas.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alfabetismo digital:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La relevancia de la tecnología en nuestros días hace que poder interactuar con ella de forma natural ya sea un valor añadido muy importante para este tipo de materias educativas. Los niños que aprenden a programar no solo interactúan con la tecnología: la crean, y se expresan a través de ella de distintas formas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/img/resourcesIMG/imagenprogramador.jpg&quot; alt=&quot;Programador What!&quot;&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Se necesitan programadores:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En la propia Code.org reflejaban otro de los datos más interesantes en ese aprendizaje: la demanda de programadores crecerá de forma dramática en los próximos años. Sólo en Estados Unidos se calcula que para el año 2020 habrá 1 millón más de trabajos de los que podrán cubrir los licenciados e ingenieros en Informática según los planes de estudio actuales. “Informática es el título universitario mejor pagado, y los trabajos de programación están creciendo el doble que la media nacional del país”, indican en un reciente estudio.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;En la sociedad actual no hay nada más importante que aprender a pensar de forma creativa, porque la sociedad está cambiando tan rápido que los estudiantes tienen que encontrar la forma de inventar soluciones innovadoras a problemas nuevos”, dijo Mitchel Resnick&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Los proyectos de programación requieren mucho esfuerzo y esto nos obliga a trabajar en equipo, a superarnos como personas, a aprender de los compañeros y rodearte de personas inteligentes. Los retos de lógica ayudan a resolver y descomponer problemas.&lt;/p&gt;
+
+&lt;figure class=&#39;BetterTube&#39; data-youtube-id=&#39;DcSyPhLbrbw&#39; data-player-width=&#39;560&#39; data-player-height=&#39;315&#39; id=&#39;DcSyPhLbrbw&#39; style=&#39;padding-bottom: 56.25%&#39;&gt;&lt;a class=&#39;BetterTubePlayer&#39; href=&#39;http://www.youtube.com/watch?v=a_426RiwST8&#39; style=&#39;background: url(http://img.youtube.com/vi/DcSyPhLbrbw/hqdefault.jpg) 50% 50% no-repeat rgb(0, 0, 0);&#39;&gt;&lt;/a&gt;&lt;div class=&#39;BetterTube-playBtn&#39;&gt;&lt;/div&gt;&amp;nbsp;&lt;/figure&gt;
+
+&lt;!-- Tambien para complementar.
+&lt;iframe src=&quot;https://embed-ssl.ted.com/talks/lang/es/mitch_resnick_let_s_teach_kids_to_code.html&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt; --&gt;
+</description>
+        <pubDate>Fri, 04 Sep 2015 00:00:00 -0500</pubDate>
+        <link>http://infopoly.github.io//2015/09/04/Deberias-Aprender-a-Programara/</link>
+        <guid isPermaLink="true">http://infopoly.github.io//2015/09/04/Deberias-Aprender-a-Programara/</guid>
+        
+        <category>programación</category>
+        
+        <category>code</category>
+        
+        <category>aprender</category>
+        
+        
+      </item>
     
       <item>
         <title>Software Libre para Universidades</title>
         <description>&lt;h2 id=&quot;tecnologías-de-código-libre-y-abierto-para-universidades&quot;&gt;Tecnologías de código libre y abierto para universidades.&lt;/h2&gt;
 
-&lt;p&gt;Hace tiempo, me encontraba escogiendo un plan de estudios adecuado para la carrera que deseaba estudiar, (informática, para los que no sepan la inclinación del blog). Y recuerdo que en esos momentos me parecían muy interesantes planes de estudios de algunas carreras universitarias, el principal motivo era porque incluían la enseñanza de materias cuyo nombre era algún tipo de software al cual yo le veía aplicación inmediata, por ejemplo la materia de tercer nivel Corel Draw, Edición con Adobe II, Animación con Flash, Desarrollo de Aplicaciones Mobiles para Iphone, entre otras tantas. La verdad me gusto la idea de que enseñaran algo que pudiera usar inmediatamente. Después con los años mi concepción de lo que es una carrera universitaria cambio totalmente, tener un plan de estudios con materias que aportaran en mi pensamiento matemático y computacional se volvió prioridad, ya no me interesaba aprender tecnologías (lo cual me parecía muy cambiante), en su lugar prefería desarrollarlas.&lt;/p&gt;
+&lt;p&gt;Hace tiempo, me encontraba escogiendo un plan de estudios adecuado para la carrera que deseaba estudiar, (informática, para los que no sepan la inclinación del blog). Y recuerdo que en esos momentos me parecían muy interesantes planes de estudios de algunas carreras universitarias, el principal motivo era porque incluían la enseñanza de modulos de estudio cuyo nombre era algún tipo de software al cual yo le veía aplicación laboral, por ejemplo el nombre de materias del tercer nivel como Corel Draw, Edición con Adobe II, Animación con Flash, Desarrollo de Aplicaciones Mobiles para Iphone, entre otras tantas. La verdad me gusto la idea de que enseñaran algo que pudiera usar inmediatamente. Después con los años mi concepción de lo que es una carrera universitaria cambio totalmente, tener un plan de estudios con materias que aportaran en mi pensamiento lógico, matemático y computacional se volvió prioridad, ya no me interesaba aprender tecnologías (lo cual me parecía muy cambiante), en su lugar prefería desarrollarlas.&lt;/p&gt;
 
 &lt;p&gt;Ser un Ingeniero en Sistemas Computacionales integral, significa tener sólidos conocimientos en el área para comprender el funcionamiento mínimo de un computador. Por ejemplo comprender el funcionamiento del reloj, el porqué diferentes tipos de instrucciones tardan más tiempo en ejecutarse que otras y cómo el movimiento físico de las cabezas de los discos retrasan el procesado de la información, uso de redes, etc. Ese conocimiento es necesario para el desarrollo de nuevas tecnologías.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://openclipart.org/image/250px/svg_to_png/193554/cyberscooty-tux-graduate.png&quot; alt=&quot;Tux graduate&quot; title=&quot;Tux graduate by  cyberscooty ( https://openclipart.org/user-detail/cyberscooty )&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Hoy día, muchas universidades incluyen en sus planes de estudio la enseñanza de tecnologías del momento. Lo cual me parece un poco grave, pero es lo que demanda el mercado cierto?. Bueno creo que estás tecnologías bien se pueden aprender en cursos externos y eliminarlas de las universidades.&lt;/p&gt;
+&lt;p&gt;Hoy día, muchas universidades incluyen en sus planes de estudio la enseñanza de tecnologías del momento. Lo cual me parece un poco grave, pero es lo que demanda el mercado ¿cierto?. Bueno creo que estás tecnologías bien se pueden aprender en cursos externos.&lt;/p&gt;
 
-&lt;p&gt;Pero lo que me parece mas grave de todo es que se preparen personas con dependencia a &amp;quot;x&amp;quot; o &amp;quot;y&amp;quot; productos de software privativos. Las universidades deberían enseñar planes de estudio integrales y en caso de necesitar recurrir al software libre. Hay marcas que una empresa desarrolla que se asocian con un ingeniero, por ejemplo un arquitecto con Autodesk o con CAD, y si no domina el software es difícil que pueda conseguir un trabajo. En algunas ocasiones dichas empresas regalan su software a estudiantes para crear una cierta dependencia y el caso seria como dice Stallman: &amp;quot;es como enseñarle a fumar a un niño en un mundo en donde solo hay un proveedor de cigarros&amp;quot;, es muy obvio que con el tiempo será adicto y no habrá retorno.&lt;/p&gt;
+&lt;p&gt;Pero el asunto que me parece mas grave de todo, es que se preparen personas con dependencia a &amp;quot;x&amp;quot; o &amp;quot;y&amp;quot; productos de software privativos. Las universidades deberían enseñar planes de estudio integrales y en caso de necesitar recurrir al software libre. Hay marcas que una empresa desarrolla que se asocian con un ingeniero, por ejemplo un arquitecto con Autodesk o con CAD, y si no domina el software es difícil que pueda conseguir un trabajo. En algunas ocasiones dichas empresas regalan su software a estudiantes para crear una cierta dependencia y el caso seria como dice Stallman: &amp;quot;es como enseñarle a fumar a un niño en un mundo en donde solo hay un proveedor de cigarros&amp;quot;, es muy obvio que con el tiempo será adicto y no habrá retorno.&lt;/p&gt;
 
-&lt;p&gt;Las universidades a diferencia de otros centros de estudio superior, regresan cultura, conocimiento y desarrollo a la sociedad. (Hay algunas universidades que no pueden llamarse universidades.). En México por ejemplo las universidades realizan algún tipo de servicio social, apoyo en comunidades, brigadas de salud, etc. El software privativo no contribuye a la sociedad, contribuye a una corporación, cuyo fin es el enriquecimiento, mientras que el desarrollo de software libre pertenece al publico en general entre ellos la sociedad.&lt;/p&gt;
+&lt;p&gt;Las universidades a diferencia de otros centros de estudio superior, regresan cultura, conocimiento y desarrollo a la sociedad. (Hay algunas universidades que no pueden llamarse universidades). En México por ejemplo las universidades realizan algún tipo de servicio social, apoyo en comunidades, brigadas de salud, etc. El software privativo no contribuye a la sociedad, contribuye a una corporación, cuyo fin es el enriquecimiento, mientras que el desarrollo de software libre pertenece al publico en general.&lt;/p&gt;
 
-&lt;p&gt;La base del desarrollo de las sociedades es la educación, solo la educación puede liberarnos y solo la buena educación no hará mejores individuos y por ende una mejor sociedad.&lt;/p&gt;
+&lt;p&gt;La base del desarrollo de las sociedades es la educación, solo la educación puede liberarnos y solo la buena educación nos hará mejores individuos y por ende una mejor sociedad.&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Aug 2015 00:00:00 -0500</pubDate>
         <link>http://infopoly.github.io//2015/08/27/Codigo-libre-universidades/</link>
@@ -48,7 +124,7 @@
 
 &lt;p&gt;Buscas un producto en Amazon y de pronto te aparece propaganda amazon en todos los sitios que visitas. ¿Te preocupa tu privacidad? Deberías probar navegar por la red Tor.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/imagentor.png&quot; alt=&quot;Tor for everyone&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/imagentor.jpg&quot; alt=&quot;Tor for everyone&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;El siguente video explica cómo la vigilancia masiva se utiliza con fines políticos y comerciales, cómo funciona Tor siendo una alternativa para no exponerse a esa vigilancia y cómo hacerse parte. En esto último, indican la importancia de que más personas ocupen Tor para contribuir no solo con la vigilancia hacia su propia persona, sino que también ayudar a proteger a otras personas como por ejemplo “activistas, periodistas y blogueros”. Finalmente, se hace mención a que puedas contribuir con un servidor, puesto que es uno de los puntos fundamentales para que la red de Tor funcione bien y permita que el nivel de descentralización sea grande para evitar que muchas de las conexiones se concentren en pocos servidores. Esto fortalece la red de Tor haciendo más difícil el rastreo de personas.&lt;/p&gt;
 
@@ -331,30 +407,6 @@ solo, nos dedicaremos a hacer lo nuestro.&lt;/p&gt;
         <category>primer_post</category>
         
         <category>jekyll</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Mejores Universidades Hispanoamericanas en software libre 2015</title>
-        <description>&lt;h2 id=&quot;ranking-universidades-software-libre&quot;&gt;Ranking Universidades Software Libre&lt;/h2&gt;
-
-&lt;p&gt;Alguna vez te haz preguntado ¿Cuales son las universidades que mas apoyan al Software Libre en Latinoamerica?. 
-Bueno en corto la respuesta.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.portalprogramas.com/software-libre/ranking-universidades/&quot; title=&quot;Las universidades en software libre - PortalProgramas&quot;&gt;&lt;img src=&quot;http://cdn6.portalprogramasnet.com/imagenes/ranking-universidades/2015/mejores-universidades-hispanoamericanas-software-libre.png&quot; alt=&quot;Las universidades en software libre - PortalProgramas&quot; height=&quot;2564&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 22 Jul 2015 00:00:00 -0500</pubDate>
-        <link>http://infopoly.github.io//2015/07/22/Mejores-Universidades-SL-2015/</link>
-        <guid isPermaLink="true">http://infopoly.github.io//2015/07/22/Mejores-Universidades-SL-2015/</guid>
-        
-        <category>software-libre</category>
-        
-        <category>gnu</category>
-        
-        <category>linux</category>
-        
-        <category>2015</category>
         
         
       </item>
