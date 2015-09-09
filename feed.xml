@@ -5,9 +5,104 @@
     <description>Informacion que Sirve</description>
     <link>http://infopoly.github.io//</link>
     <atom:link href="http://infopoly.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Sep 2015 17:26:50 -0500</pubDate>
-    <lastBuildDate>Fri, 04 Sep 2015 17:26:50 -0500</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2015 00:09:23 -0500</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2015 00:09:23 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>El Universo Mecánico</title>
+        <description>&lt;h2 id=&quot;física-de-alto-nivel-con-el-mínimo-esfuerzo&quot;&gt;Física de alto nivel con el mínimo esfuerzo&lt;/h2&gt;
+
+&lt;p&gt;Durante tu formación como ingeniero es importante conocer las bases físicas del mundo que te rodea. Créeme hay cosas que no imaginabas que fueran posibles hasta que las descubres por ti mismo(asimilación).
+Y es muy importante conocer como el universo se rige por leyes que desafían en algunos casos nuestra intuición.&lt;/p&gt;
+
+&lt;p&gt;El Instituto de Tecnología de California ha desarrollado material audio-visual para ponernos al corriente con los grandes descubrimientos científicos.&lt;/p&gt;
+
+&lt;p&gt;La serie presenta la física a nivel universitario, abarcando temas desde Copérnico a la mecánica cuántica. Para ello utiliza dramatizaciones históricas y animaciones que explican conceptos de la física. Cada episodio se abre y se cierra con una conferencia &amp;quot;fantasma&amp;quot; del profesor David Goodstein del Instituto Tecnológico de California.&lt;/p&gt;
+
+&lt;p&gt;A pesar de su antigüedad, la serie se utiliza muy a menudo incluso hoy día, gracias al gran rigor científico de su contenido y a su cuidadosa exposición de hechos y supuestos prácticos, como una ayuda suplementaria para explicar fenómenos como la relatividad especial. Durante el transcurso de los vídeos se abarcan contenidos como la electricidad, la mecánica clásica, el electromagnetismo, la termodinámica, la relatividad y la mecánica cuántica, así como aborda las biografías de los más importantes científicos de la historia y sus descubrimientos, como por ejemplo Johannes Kepler, Isaac Newton, Galileo Galilei o Albert Einstein, entre otros.&lt;/p&gt;
+
+&lt;figure class=&#39;BetterTube&#39; data-youtube-id=&#39;92QDL9MnnBk&#39; data-player-width=&#39;560&#39; data-player-height=&#39;315&#39; id=&#39;92QDL9MnnBk&#39; style=&#39;padding-bottom: 56.25%&#39;&gt;&lt;a class=&#39;BetterTubePlayer&#39; href=&#39;http://www.youtube.com/watch?v=a_426RiwST8&#39; style=&#39;background: url(http://img.youtube.com/vi/92QDL9MnnBk/hqdefault.jpg) 50% 50% no-repeat rgb(0, 0, 0);&#39;&gt;&lt;/a&gt;&lt;div class=&#39;BetterTube-playBtn&#39;&gt;&lt;/div&gt;&amp;nbsp;&lt;/figure&gt;
+
+&lt;h2 id=&quot;lista-de-capítulos&quot;&gt;Lista de Capítulos&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Introducción al Universo mecánico&lt;/li&gt;
+&lt;li&gt;La ley de la caída de los cuerpos&lt;/li&gt;
+&lt;li&gt;Derivadas&lt;/li&gt;
+&lt;li&gt;Inercia&lt;/li&gt;
+&lt;li&gt;Vectores&lt;/li&gt;
+&lt;li&gt;La ley de Newton&lt;/li&gt;
+&lt;li&gt;Integración&lt;/li&gt;
+&lt;li&gt;La manzana y la Luna&lt;/li&gt;
+&lt;li&gt;El círculo en movimiento&lt;/li&gt;
+&lt;li&gt;Las fuerzas fundamentales de la naturaleza&lt;/li&gt;
+&lt;li&gt;Gravedad, electricidad y magnetismo&lt;/li&gt;
+&lt;li&gt;El experimento Millikan&lt;/li&gt;
+&lt;li&gt;Conservación de la energía&lt;/li&gt;
+&lt;li&gt;Energía potencial&lt;/li&gt;
+&lt;li&gt;Conservación del momento&lt;/li&gt;
+&lt;li&gt;Movimiento armónico&lt;/li&gt;
+&lt;li&gt;Resonancia&lt;/li&gt;
+&lt;li&gt;Ondas&lt;/li&gt;
+&lt;li&gt;Momento cinético&lt;/li&gt;
+&lt;li&gt;Torsión y giroscopios&lt;/li&gt;
+&lt;li&gt;Las tres leyes de Kepler&lt;/li&gt;
+&lt;li&gt;El problema de Kepler&lt;/li&gt;
+&lt;li&gt;Energía y excentricidad&lt;/li&gt;
+&lt;li&gt;Navegar por el espacio&lt;/li&gt;
+&lt;li&gt;Desde Kepler a Einstein&lt;/li&gt;
+&lt;li&gt;La armonía del Universo&lt;/li&gt;
+&lt;li&gt;Más allá del Universo mecánico&lt;/li&gt;
+&lt;li&gt;Electricidad estática&lt;/li&gt;
+&lt;li&gt;El campo eléctrico&lt;/li&gt;
+&lt;li&gt;Capacidad y potencial&lt;/li&gt;
+&lt;li&gt;Voltaje, energía y fuerza&lt;/li&gt;
+&lt;li&gt;La batería eléctrica&lt;/li&gt;
+&lt;li&gt;Circuitos eléctricos&lt;/li&gt;
+&lt;li&gt;Magnetismo&lt;/li&gt;
+&lt;li&gt;Campo magnético&lt;/li&gt;
+&lt;li&gt;Campos vectoriales e hidrodinámicos&lt;/li&gt;
+&lt;li&gt;Inducción electromagnética&lt;/li&gt;
+&lt;li&gt;Corrientes alternas&lt;/li&gt;
+&lt;li&gt;Las ecuaciones de Maxwell&lt;/li&gt;
+&lt;li&gt;Óptica&lt;/li&gt;
+&lt;li&gt;El experimento Michelson-Morley&lt;/li&gt;
+&lt;li&gt;La transformación de Lorentz&lt;/li&gt;
+&lt;li&gt;Velocidad y tiempo&lt;/li&gt;
+&lt;li&gt;Energía, cantidad de momento y masa&lt;/li&gt;
+&lt;li&gt;Temperatura y la ley de los gases&lt;/li&gt;
+&lt;li&gt;La maquina de la naturaleza&lt;/li&gt;
+&lt;li&gt;Entropía&lt;/li&gt;
+&lt;li&gt;Bajas temperaturas&lt;/li&gt;
+&lt;li&gt;El átomo&lt;/li&gt;
+&lt;li&gt;Partículas y ondas&lt;/li&gt;
+&lt;li&gt;Del átomo al quark&lt;/li&gt;
+&lt;li&gt;El Universo cuántico mecánico&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;La información sin aplicación no es conocimiento.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;conocimiento: Facultad del ser humano para comprender por medio de la razón la naturaleza, cualidades y relaciones de las cosas.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Fri, 11 Sep 2015 00:00:00 -0500</pubDate>
+        <link>http://infopoly.github.io//2015/09/11/Universo-Mecanico/</link>
+        <guid isPermaLink="true">http://infopoly.github.io//2015/09/11/Universo-Mecanico/</guid>
+        
+        <category>física</category>
+        
+        <category>universo</category>
+        
+        <category>mecánica</category>
+        
+        <category>youtube</category>
+        
+        
+      </item>
     
       <item>
         <title>Aprende a programar</title>
@@ -41,6 +136,8 @@
 &lt;p&gt;“Todos en este país deberían saber cómo programar una computadora… porque te enseña a pensar” – Steve Jobs&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;figure class=&#39;BetterTube&#39; data-youtube-id=&#39;Ok6LbV6bqaE&#39; data-player-width=&#39;560&#39; data-player-height=&#39;315&#39; id=&#39;Ok6LbV6bqaE&#39; style=&#39;padding-bottom: 56.25%&#39;&gt;&lt;a class=&#39;BetterTubePlayer&#39; href=&#39;http://www.youtube.com/watch?v=a_426RiwST8&#39; style=&#39;background: url(http://img.youtube.com/vi/Ok6LbV6bqaE/hqdefault.jpg) 50% 50% no-repeat rgb(0, 0, 0);&#39;&gt;&lt;/a&gt;&lt;div class=&#39;BetterTube-playBtn&#39;&gt;&lt;/div&gt;&amp;nbsp;&lt;/figure&gt;
+
 &lt;ul&gt;
 &lt;li&gt;La diversidad es ventajosa para los niños:&lt;/li&gt;
 &lt;/ul&gt;
@@ -62,15 +159,12 @@
 &lt;p&gt;En la propia Code.org reflejaban otro de los datos más interesantes en ese aprendizaje: la demanda de programadores crecerá de forma dramática en los próximos años. Sólo en Estados Unidos se calcula que para el año 2020 habrá 1 millón más de trabajos de los que podrán cubrir los licenciados e ingenieros en Informática según los planes de estudio actuales. “Informática es el título universitario mejor pagado, y los trabajos de programación están creciendo el doble que la media nacional del país”, indican en un reciente estudio.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;En la sociedad actual no hay nada más importante que aprender a pensar de forma creativa, porque la sociedad está cambiando tan rápido que los estudiantes tienen que encontrar la forma de inventar soluciones innovadoras a problemas nuevos”, dijo Mitchel Resnick&lt;/p&gt;
+&lt;p&gt;En la sociedad actual no hay nada más importante que aprender a pensar de forma creativa, porque la sociedad está cambiando tan rápido que los estudiantes tienen que encontrar la forma de inventar soluciones innovadoras a problemas nuevos”, - Mitchel Resnick&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Los proyectos de programación requieren mucho esfuerzo y esto nos obliga a trabajar en equipo, a superarnos como personas, a aprender de los compañeros y rodearte de personas inteligentes. Los retos de lógica ayudan a resolver y descomponer problemas.&lt;/p&gt;
 
 &lt;figure class=&#39;BetterTube&#39; data-youtube-id=&#39;DcSyPhLbrbw&#39; data-player-width=&#39;560&#39; data-player-height=&#39;315&#39; id=&#39;DcSyPhLbrbw&#39; style=&#39;padding-bottom: 56.25%&#39;&gt;&lt;a class=&#39;BetterTubePlayer&#39; href=&#39;http://www.youtube.com/watch?v=a_426RiwST8&#39; style=&#39;background: url(http://img.youtube.com/vi/DcSyPhLbrbw/hqdefault.jpg) 50% 50% no-repeat rgb(0, 0, 0);&#39;&gt;&lt;/a&gt;&lt;div class=&#39;BetterTube-playBtn&#39;&gt;&lt;/div&gt;&amp;nbsp;&lt;/figure&gt;
-
-&lt;!-- Tambien para complementar.
-&lt;iframe src=&quot;https://embed-ssl.ted.com/talks/lang/es/mitch_resnick_let_s_teach_kids_to_code.html&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt; --&gt;
 </description>
         <pubDate>Fri, 04 Sep 2015 00:00:00 -0500</pubDate>
         <link>http://infopoly.github.io//2015/09/04/Deberias-Aprender-a-Programara/</link>
@@ -377,36 +471,6 @@ disponibles.&lt;/p&gt;
         <category>tiempo-libre</category>
         
         <category>autodidacta</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Haciendo lo nuestro...</title>
-        <description>&lt;blockquote&gt;
-&lt;h2 id=&quot;quot-la-vida-es-vida-y-el-dinero-es-dinero-dinero-dinero-dinero-aprende-algo-dinero-quot&quot;&gt;&amp;quot;La vida es vida y el dinero es dinero, dinero, dinero, dinero... aprende algo dinero.&amp;quot;&lt;/h2&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Existen muchas razones por las cuales me interesa escribir un blog, entre ellas la de realizar aportes útiles de información
-para los que apenas empiezan en este mundillo, compartir puntos de vista acerca de uno u otro tema, generar pensamiento critico
-en los lectores, etc. Pero la principal razón por la que hago esto es la de regresar a la comunidad un poco de lo que yo he recibido.&lt;/p&gt;
-
-&lt;p&gt;La pagina va principalmente del lado de la tecnología informática, centrada principalmente en temas de interés, como las matemáticas, la programación, los algoritmos, etc. Los consejos, tips, tutoriales y demás, son sobre temas en los que estamos relacionados, prácticamente
-solo, nos dedicaremos a hacer lo nuestro.&lt;/p&gt;
-
-&lt;p&gt;Hay cosas que no se pueden hacer con dinero, solo con voluntad y amor por lo que se hace.&lt;/p&gt;
-
-&lt;h3 id=&quot;aprende-algo-dinero&quot;&gt;Aprende algo dinero.&lt;/h3&gt;
-</description>
-        <pubDate>Tue, 04 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://infopoly.github.io//2015/08/04/Haciendo-lo-nuestro/</link>
-        <guid isPermaLink="true">http://infopoly.github.io//2015/08/04/Haciendo-lo-nuestro/</guid>
-        
-        <category>hello_world</category>
-        
-        <category>primer_post</category>
-        
-        <category>jekyll</category>
         
         
       </item>
