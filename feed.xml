@@ -5,9 +5,58 @@
     <description>Informacion que Sirve</description>
     <link>http://infopoly.github.io//</link>
     <atom:link href="http://infopoly.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Sep 2015 00:09:23 -0500</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2015 00:09:23 -0500</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2015 23:28:55 -0500</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2015 23:28:55 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>En el principio fue la línea de comandos</title>
+        <description>&lt;h2 id=&quot;en-el-principio-fue-la-línea-de-comandos-in-the-beginning-was-the-command-line&quot;&gt;En el principio fue la línea de comandos (In the beginning... was the command line)&lt;/h2&gt;
+
+&lt;p&gt;Siguiendo con la cultura de software libre les comento una lectura que realice recientemente, recomendádola ampliamente para conocer un poco más de los orígenes de el software libre, es increíble lo que uno se encuentra al adentrarse un poco por medio de la lectura a los años del boom de los computadores en los Estados Unidos.&lt;/p&gt;
+
+&lt;p&gt;Quiero mencionar ademas que no pertenezco a la generación de ingenieros en sistemas que prácticamente nacieron y crecieron con el computo, por lo tanto estoy un poco mas distante del contexto de la historia del computador, &amp;quot;dicho de otra manera, para mi ya no es fácil destripar el funcionamiento interno de una computadora(siento que ya hay demasiadas capas de abstracción)&amp;quot;.
+ Así como muchos de los que somos nuevos en el mundo de la informática lidiar con una instalación de cualquier distribución linux ya no representa el enorme tormento ó reto que represento realizarla en los primeros años del computo. Hoy día es mucho mas fácil la interacción humano-computador.
+ Pero precisamente al ahorrarnos el tormento momentáneo de la instalación primitiva, perdemos de vista muchos de los procesos que realiza nuestra computadora al momento de instalar un SO. Esa es una de las principales causas por las que uso linux, en linux aprendes conceptos importantes como booteo, particionado, gestor de ventanas, gestor de archivos, sistemas de ficheros de archivos, etc. En linux conoces mas como es que trabaja un Sistema Operativo, cuales son sus funciones y el porque es necesario para trabajar con un computador. Linux te permite aprender mas acerca del funcionamiento de un SO, pero la linea de comandos es un vivo recuerdo de que nada en la computación se hace de manera fácil.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/img/resourcesIMG/lineadecomandos.jpg&quot; alt=&quot;Lecturas sobre software-libre&quot;&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;a href=&quot;assets/src/lineadecomandos.pdf&quot;&gt;En el principio fue la linea de comandos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;En el principio... fue la línea de comandos (In the beginning... was the command line) es un ensayo del escritor estadounidense Neal Stephenson, que utiliza sagaces analogías para situarnos en el contexto de la guerra de los sistemas operativos en las décadas de los 90&amp;#39;s y prácticamente de la rivalidad existente entre Windows y Mac.&lt;/p&gt;
+
+&lt;p&gt;De hecho el autor afirma que linux debe su existencia a tres personajes históricos, Linus Torvals, Richard Stallman y Bill Gates!. En serio Bill Gates?, como lo plantea el autor tiene sentido, él responsable del abaratamiento del hardware en los computadores es Bill Gates, al basar su modelo de negocio en la venta de hardware y esa fue la puerta de entrada de linux en computadores compatibles con PC. Gracias a esta trinidad linux pudo salir avante en un mundo de competidores férreos.&lt;/p&gt;
+
+&lt;p&gt;La analogía del tanque es bellísima, imagina una avenida con dos concesionarios de autos, unos venden autos elegantes(mac), otros venden autos económicos pero funcionales(windows) y frente a la avenida un grupo de loquillos con tipis y casas de campaña crean tanques que usan la misma gasolina que los autos funcionales de windows pero son tanques y son gratuitos.&lt;/p&gt;
+
+&lt;p&gt;Y efectivamente linux es un tanque, pero windows ha vendido la idea que sus autos son mejores aunque se paren, se calienten y no cumplan con su acometido. Windows ha vendio la idea que su SO, es un producto tan tangible que merece la pena pagar por un software donde el 90% del producto que viene en caja es solo aire.&lt;/p&gt;
+
+&lt;p&gt;Dejo a continuación la lectura para su beneplácito y para que comenten que les pareció y si es que están de acuerdo con lo planteado por el autor. -ojo no defender una posición sin haber leído el ensayo.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;assets/src/lineadecomandos.pdf&quot;&gt;En el principio fue la linea de comandos&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://biblioweb.sindominio.net/pensamiento/&quot;&gt;Otras Lecturas de Interes.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://biblioweb.sindominio.net/telematica/&quot;&gt;Unas más&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://biblioweb.sindominio.net/escepticos/&quot;&gt;Las últimas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 25 Sep 2015 00:00:00 -0500</pubDate>
+        <link>http://infopoly.github.io//2015/09/25/En-el-principio-fue-la-linea-de-comandos/</link>
+        <guid isPermaLink="true">http://infopoly.github.io//2015/09/25/En-el-principio-fue-la-linea-de-comandos/</guid>
+        
+        <category>software-libre</category>
+        
+        <category>linux</category>
+        
+        <category>gnu</category>
+        
+        <category>ubuntu</category>
+        
+        
+      </item>
     
       <item>
         <title>El Universo Mecánico</title>
@@ -431,46 +480,6 @@ sorpresa al asunto.&lt;/p&gt;
         <category>youtube</category>
         
         <category>cultura-general</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>MOOC&#39;s Aprendizaje Independiente.</title>
-        <description>&lt;p&gt;Cuantas veces no te ha pasado, que tienes ganas de aprender algo nuevo o tal vez algo que te interesa pero en la universidad o el colegio en donde tú estudias no hay la manera, esto pasa frecuentemente en el mundillo de la programación, afortunadamente puedes siempre recurrir a vimeo, youtube, y otros
-servidores de contenido multimedia para llenar ese hueco que no te tiene satisfecho.
-Pero que pasa si realmente quieres tomar un curso certificado, sobre tal tema, deseas que aparte de
-ir aprendiendo a tu ritmo alguien mas evalúe tu aprendizaje. Bueno para eso existen los MOOC&amp;#39;s.&lt;/p&gt;
-
-&lt;p&gt;Gracias al Internet y la era de la información ésa ya hay excusa para no aprender, que lo mismo tomas un curso
-de ingles, que uno de programación del mas alto nivel. Hoy en día si en verdad deseas
-aprender algo nuevo o profundizar tus conocimientos sobre un tema, solo basta con ponerse manos a la obra,
-poco de tiempo, conexión a internet y un buen café, para tomar los cientos de cursos en linea que están
-disponibles.&lt;/p&gt;
-
-&lt;p&gt;¿Pero que es un MOOC? Las siglas MOOC, significan Massive open online course MOOC (acrónimo en inglés de Massive Open Online Course) es traducido ampliamente al español como Curso en Línea Masivo y Abierto ó tal vez Curso Online Masivo y Abierto, etc.&lt;/p&gt;
-
-&lt;p&gt;Los MOOC pertenecen a una modalidad de educación abierta y a distancia.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 05 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://infopoly.github.io//2015/08/05/Moocs-aprendizaje-independiente/</link>
-        <guid isPermaLink="true">http://infopoly.github.io//2015/08/05/Moocs-aprendizaje-independiente/</guid>
-        
-        <category>mooc</category>
-        
-        <category>cursos-online</category>
-        
-        <category>cursos</category>
-        
-        <category>tutoriales</category>
-        
-        <category>universidad</category>
-        
-        <category>cursos-complementarios</category>
-        
-        <category>tiempo-libre</category>
-        
-        <category>autodidacta</category>
         
         
       </item>
