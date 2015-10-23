@@ -1,6 +1,16 @@
 [
 
 {
+"id": "-2015-10-23-Google-El-Gran-Hermano",
+"title": "Google el gran hermano",
+"author": null,
+"tags": ["google", "buscador", "privacidad"],
+"url": "/2015/10/23/Google-El-Gran-Hermano/",
+"date": "2015-10-23",
+"content": "Google: &quot;Behind the Screen&quot;Google es una compañía, principal subsidiaria de la multinacional estadounidense Alphabet Inc., especializada en productos y servicios relacionados con Internet, software, dispositivos electrónicos y otras tecnologías. Por ejemplo el buscador mas utilizado del mundo es uno de los servicios que ofrece Google.Aunque Google parezca tener las mejores intenciones, hay también detractores que opinan que se está convirtiendo en una especie de Gran Hermano, siguiendo la pista de sus usuarios y controlando la información que proporciona.Por ejemplo Google Maps registra cada paso que das en una lista y en un mapa.Y lo puedes comprobar aquí. Maps TimeLineLa empresa estadounidense pretende crear la más completa base de datos de informaciones personales sobre sus usuarios. El objetivo, según explicó el presidente ejecutivo de Google, Eric Schmidt, es ayudar a los usuarios a decidir, por ejemplo, qué hacer con su tiempo libre al día siguiente o por qué trabajo optar en un momento determinado de su vida.Lo cierto es que nadie te conoce mejor que tu mismo exepto Google... ya es una realidad.&nbsp;¿Será Google la futura Biblioteca de Alejandría o se convertirá en el monopolio que desafiará la libertad de información?"
+}, 
+
+{
 "id": "-2015-10-09-Discurso-Mantente-Hambriento-Steve-Jobs",
 "title": "Discurso de Steve Jobs en Stanford",
 "author": null,
@@ -27,7 +37,7 @@
 "tags": ["física", "universo", "mecánica", "youtube"],
 "url": "/2015/09/11/Universo-Mecanico/",
 "date": "2015-09-11",
-"content": "Física de alto nivel con el mínimo esfuerzoDurante tu formación como ingeniero es importante conocer las bases físicas del mundo que te rodea. Créeme hay cosas que no imaginabas que fueran posibles hasta que las descubres por ti mismo(asimilación).Y es muy importante conocer como el universo se rige por leyes que desafían en algunos casos nuestra intuición.El Instituto de Tecnología de California ha desarrollado material audio-visual para ponernos al corriente con los grandes descubrimientos científicos.La serie presenta la física a nivel universitario, abarcando temas desde Copérnico a la mecánica cuántica. Para ello utiliza dramatizaciones históricas y animaciones que explican conceptos de la física. Cada episodio se abre y se cierra con una conferencia &quot;fantasma&quot; del profesor David Goodstein del Instituto Tecnológico de California.A pesar de su antigüedad, la serie se utiliza muy a menudo incluso hoy día, gracias al gran rigor científico de su contenido y a su cuidadosa exposición de hechos y supuestos prácticos, como una ayuda suplementaria para explicar fenómenos como la relatividad especial. Durante el transcurso de los vídeos se abarcan contenidos como la electricidad, la mecánica clásica, el electromagnetismo, la termodinámica, la relatividad y la mecánica cuántica, así como aborda las biografías de los más importantes científicos de la historia y sus descubrimientos, como por ejemplo Johannes Kepler, Isaac Newton, Galileo Galilei o Albert Einstein, entre otros.&nbsp;Lista de CapítulosIntroducción al Universo mecánicoLa ley de la caída de los cuerposDerivadasInerciaVectoresLa ley de NewtonIntegraciónLa manzana y la LunaEl círculo en movimientoLas fuerzas fundamentales de la naturalezaGravedad, electricidad y magnetismoEl experimento MillikanConservación de la energíaEnergía potencialConservación del momentoMovimiento armónicoResonanciaOndasMomento cinéticoTorsión y giroscopiosLas tres leyes de KeplerEl problema de KeplerEnergía y excentricidadNavegar por el espacioDesde Kepler a EinsteinLa armonía del UniversoMás allá del Universo mecánicoElectricidad estáticaEl campo eléctricoCapacidad y potencialVoltaje, energía y fuerzaLa batería eléctricaCircuitos eléctricosMagnetismoCampo magnéticoCampos vectoriales e hidrodinámicosInducción electromagnéticaCorrientes alternasLas ecuaciones de MaxwellÓpticaEl experimento Michelson-MorleyLa transformación de LorentzVelocidad y tiempoEnergía, cantidad de momento y masaTemperatura y la ley de los gasesLa maquina de la naturalezaEntropíaBajas temperaturasEl átomoPartículas y ondasDel átomo al quarkEl Universo cuántico mecánicoLa información sin aplicación no es conocimiento.conocimiento: Facultad del ser humano para comprender por medio de la razón la naturaleza, cualidades y relaciones de las cosas."
+"content": "Física de alto nivel con el mínimo esfuerzoDurante tu formación como ingeniero es importante conocer las bases físicas del mundo que te rodea. Créeme hay cosas que no imaginabas que fueran posibles hasta que las descubres por ti mismo(asimilación).Y es muy importante conocer como el universo se rige por leyes que desafían en algunos casos nuestra intuición.El Instituto de Tecnología de California ha desarrollado material audio-visual para ponernos al corriente con los grandes descubrimientos científicos.La serie presenta la física a nivel universitario, abarcando temas desde Copérnico a la mecánica cuántica. Para ello utiliza dramatizaciones históricas y animaciones que explican conceptos de la física. Cada episodio se abre y se cierra con una conferencia &quot;fantasma&quot; del profesor David Goodstein del Instituto Tecnológico de California.A pesar de su antigüedad, la serie se utiliza muy a menudo incluso hoy día, gracias al gran rigor científico de su contenido y a su cuidadosa exposición de hechos y supuestos prácticos, como una ayuda suplementaria para explicar fenómenos como la relatividad especial. Durante el transcurso de los vídeos se abarcan contenidos como la electricidad, la mecánica clásica, el electromagnetismo, la termodinámica, la relatividad y la mecánica cuántica, así como aborda las biografías de los más importantes científicos de la historia y sus descubrimientos, como por ejemplo Johannes Kepler, Isaac Newton, Galileo Galilei o Albert Einstein, entre otros.&nbsp;La información sin aplicación no es conocimiento.conocimiento: Facultad del ser humano para comprender por medio de la razón la naturaleza, cualidades y relaciones de las cosas."
 }, 
 
 {
@@ -121,13 +131,13 @@
 }, 
 
 {
-"id": "-2015-08-04-Haciendo-lo-nuestro",
-"title": "Haciendo lo nuestro...",
+"id": "-2015-08-02-Imagenes_clipArt_libres",
+"title": "Imágenes Libres con ClipArt.",
 "author": null,
-"tags": ["hello_world", "primer_post", "jekyll"],
-"url": "/2015/08/04/Haciendo-lo-nuestro/",
-"date": "2015-08-04",
-"content": "&quot;La vida es vida y el dinero es dinero, dinero, dinero, dinero... aprende algo dinero.&quot;Existen muchas razones por las cuales me interesa escribir un blog, entre ellas la de realizar aportes útiles de informaciónpara los que apenas empiezan en este mundillo, compartir puntos de vista acerca de uno u otro tema, generar pensamiento criticoen los lectores, etc. Pero la principal razón por la que hago esto es la de regresar a la comunidad un poco de lo que yo he recibido.La pagina va principalmente del lado de la tecnología informática, centrada principalmente en temas de interés, como las matemáticas, la programación, los algoritmos, etc. Los consejos, tips, tutoriales y demás, son sobre temas en los que estamos relacionados, prácticamentesolo, nos dedicaremos a hacer lo nuestro.Hay cosas que no se pueden hacer con dinero, solo con voluntad y amor por lo que se hace.Aprende algo dinero."
+"tags": ["clipArt", "imágenes", "proyectos"],
+"url": "/2015/08/02/Imagenes_clipArt_libres/",
+"date": "2015-08-02",
+"content": "Imágenes ClipArt Libres para Proyectos Incluso Comerciales.Si señor!, resulta que existe un proyecto llamado Biblioteca Abierta de Imágenes Pre-diseñadas, o en ingles Open Clip Art Library. Donde podemos descargar de su base de datos cerca de 6000 imágenes y contando.Estas imágenes son de muy buena calidad, de hecho se encuentran en el formato mas escalable (que no se ve pixeliada al estirarla) llamado .svgLas imágenes no cuentan con algún tipo de restricción y las podemos usar de manera comercial.Como su política de privacidad lo dice:Uso Comercial Ilimitado, tratamos de dejar claro que es posible utilizar toda clipart de OpenClipArt incluso para uso comercial ilimitado. Creemos que regalar nuestras imágenes es una gran manera de compartir con el mundo nuestro talento y que va a volver todo en una forma mejor."
 }, 
 
 {
@@ -198,16 +208,6 @@
 "url": "/2015/05/10/Anyoranzas-musica/",
 "date": "2015-05-10",
 "content": "Añoranzas, la música que definió una época en latinoamérica.Pocas veces tengo el gusto de presenciar en televisión un programa que disfrute todos los minutos que dura el mismo, este es el caso con el programa de televisión añoranzas conducido por Jorge Saldaña, quien fue periodista, cronista y escritor veracruzano, Jorge Saldaña le da un toque de madurez al asunto musical y por supuesto, creo yo, imprime su sello conocedor en la música que es escogida en cada programa.Lamentablemente el señor Jorge Saldaña ya no, nos acompañara en este largo camino llamado vida, pero nos deja su aporte, con sus homenajes a la música latinoamericana.Canal Once, propiedad del Instituto Politécnico Nacional, pone en nuestras manos, la brillante calidad del material del programa Añoranzas, visible para todo publico a través la difusión del contenido de ese canal.&nbsp;Espero que disfruten de esta brillante colección de programas de televisión y nos compartan en los comentarios sobre intentos en latinoamérica del tributo de la música en español.Gracias Jorge, “Sos grande”."
-}, 
-
-{
-"id": "-2015-05-08-Imagenes_clipArt_libres",
-"title": "Imágenes Libres con ClipArt.",
-"author": null,
-"tags": ["clipArt", "imágenes", "proyectos"],
-"url": "/2015/05/08/Imagenes_clipArt_libres/",
-"date": "2015-05-08",
-"content": "Imágenes ClipArt Libres para Proyectos Incluso Comerciales.Si señor!, resulta que existe un proyecto llamado Biblioteca Abierta de Imágenes Pre-diseñadas, o en ingles Open Clip Art Library. Donde podemos descargar de su base de datos cerca de 6000 imágenes y contando.Estas imágenes son de muy buena calidad, de hecho se encuentran en el formato mas escalable (que no se ve pixeliada al estirarla) llamado .svgLas imágenes no cuentan con algún tipo de restricción y las podemos usar de manera comercial.Como su política de privacidad lo dice:Uso Comercial Ilimitado, tratamos de dejar claro que es posible utilizar toda clipart de OpenClipArt incluso para uso comercial ilimitado. Creemos que regalar nuestras imágenes es una gran manera de compartir con el mundo nuestro talento y que va a volver todo en una forma mejor."
 }, 
 
 {
