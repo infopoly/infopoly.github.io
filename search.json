@@ -1,6 +1,16 @@
 [
 
 {
+"id": "-2015-11-06-Ciencia-Del-Movimiento",
+"title": "Ciencia del Movimiento",
+"author": null,
+"tags": ["Ciencia", "Movimiento", "TEDtalk", "Computacion."],
+"url": "/2015/11/06/Ciencia-Del-Movimiento/",
+"date": "2015-11-06",
+"content": "Ciencia del Movimiento ó de los Puntos en Movimiento.Sin duda alguna, faltan demasiados campos para explorar en la ciencia.Uno de ellos es el del movimiento y de los patrones que se producen al moverse&quot;N&quot; objetos en determinado evento &quot;X&quot;. Seria interesante estudiar las revelaciones de estos patrones para utilizarlos con el fin de crear entornos inteligentes, que eviten conglomerados o bien para calcular las probabilidades de éxito en ciertas posiciones. Afortunadamente hoy en día es demasiado fácil monitorear el movimiento de los objetos, gracias a la enorme cantidad de sensores, aplicaciones y software disponibles para ello.El siguiente video es de una platica de TEDtalk realizada por Rajiv Maheswaran es un investigador en Ciencias de la computación y presidente de la empresa Second Spectrum. Rajiv detalla su trabajo en la “ciencia del movimiento” y sus aplicaciones prácticas para mejorar la eficiencia en distintos ámbitos en la NBA.&nbsp;La charla toca temas interesantes sobre aprendizaje de máquinas y utilización de datos."
+}, 
+
+{
 "id": "-2015-10-23-Google-El-Gran-Hermano",
 "title": "Google el gran hermano",
 "author": null,
