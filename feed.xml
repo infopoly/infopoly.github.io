@@ -5,9 +5,38 @@
     <description>Informacion que Sirve</description>
     <link>http://infopoly.github.io//</link>
     <atom:link href="http://infopoly.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Nov 2015 13:08:57 -0600</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2015 13:08:57 -0600</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2015 14:06:13 -0600</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2015 14:06:13 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Videos Una de Mates</title>
+        <description>&lt;h2 id=&quot;divulgación-matemática-por-cátedra-de-cultura-científica-de-la-upv-ehu&quot;&gt;Divulgación Matemática por Cátedra de Cultura Científica de la UPV/EHU&lt;/h2&gt;
+
+&lt;p&gt;Navegando por internet en una de mis paginas favoritas de divulgación matemática, &lt;a href=&quot;http://divulgamat2.ehu.es/divulgamat15/index.php&quot;&gt;divulgamat&lt;/a&gt; me encontré con ésta joven serie de videos llamada Una de Mates, en la cual abordan algunas temas matemáticos interesantes, y por supuesto útiles para cualquier persona interesada en el tema. En lo particular pienso que la verdadera inteligencia consiste en bajar los conceptos mas abstractos al lenguaje mas entendible.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot;  src=&quot;https://www.youtube.com/embed/40ecUW1gfbE?list=PLFjjfF0vHULZg6qaM9935LPZtrOql3oHj&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;
+Los vídeos de Una de mates pretenden presentar de forma breve y divertida ideas fundamentales de las matemáticas. Están presentados por Raúl Ibáñez (@mtpibtor) para la Cátedra de Cultura Científica de la UPV/EHU y se estrenarán en televisión en Órbita Laika (@orbitalaika_tve), los miércoles a las 23:30 en La 2 de TVE. Órbita Laika es un programa de humor y ciencia dirigido por José A. Pérez Ledo (@mimesacojea) y conducido por Ángel Martín (@angelmartin_nc).
+&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Nov 2015 00:00:00 -0600</pubDate>
+        <link>http://infopoly.github.io//2015/11/20/Videos-Una-De-Mates/</link>
+        <guid isPermaLink="true">http://infopoly.github.io//2015/11/20/Videos-Una-De-Mates/</guid>
+        
+        <category>Youtube</category>
+        
+        <category>Matemáticas</category>
+        
+        <category>Divulgación</category>
+        
+        <category>Cultura</category>
+        
+        <category>Ciencia</category>
+        
+        
+      </item>
     
       <item>
         <title>Latinoamérica en la tecnología.</title>
@@ -520,36 +549,6 @@ Y es muy importante conocer como el universo se rige por leyes que desafían en 
         <category>www</category>
         
         <category>privacidad</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Defcon-Hack</title>
-        <description>&lt;h2 id=&quot;defcon-fiesta-de-hackers&quot;&gt;Defcon fiesta de hackers.&lt;/h2&gt;
-
-&lt;p&gt;Buen documental que muestra una parte importante sobre los miticos, hackers, ¿existen?, ¿no existen?, ¿viven solo en nuestros sueños? ó ¿quizas hacen fiestas en las vegas para compartir tecnicas de hackeo?. Bueno al parecer hacen fiestas en las vegas.&lt;/p&gt;
-
-&lt;p&gt;Cada año se lleva a cabo la fiesta de hackers deftcon (o dicho de otro modo la convencion de hackers mas grande del mundo), en la cual miles de hackers de todo el mundo se reunen para compartir sus conocimientos, pasar el rato y demostrar de que estan hechos.&lt;/p&gt;
-
-&lt;p&gt;Dejo aquí el siguente video para que lo compruben por ustedes mismos.
-Los hackers estan ahi afuera y se divierten.  &lt;/p&gt;
-
-&lt;figure class=&#39;BetterTube&#39; data-youtube-id=&#39;sbWWri57KuE&#39; data-player-width=&#39;560&#39; data-player-height=&#39;315&#39; id=&#39;sbWWri57KuE&#39; style=&#39;padding-bottom: 56.25%&#39;&gt;&lt;a class=&#39;BetterTubePlayer&#39; href=&#39;http://www.youtube.com/watch?v=a_426RiwST8&#39; style=&#39;background: url(http://img.youtube.com/vi/sbWWri57KuE/hqdefault.jpg) 50% 50% no-repeat rgb(0, 0, 0);&#39;&gt;&lt;/a&gt;&lt;div class=&#39;BetterTube-playBtn&#39;&gt;&lt;/div&gt;&amp;nbsp;&lt;/figure&gt;
-
-&lt;p&gt;Disfruta el video y comparte.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 19 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://infopoly.github.io//2015/08/19/Daftcon/</link>
-        <guid isPermaLink="true">http://infopoly.github.io//2015/08/19/Daftcon/</guid>
-        
-        <category>hackers</category>
-        
-        <category>deftcon</category>
-        
-        <category>documental</category>
-        
-        <category>informatica</category>
         
         
       </item>
