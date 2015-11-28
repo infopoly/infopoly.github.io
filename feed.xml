@@ -5,8 +5,8 @@
     <description>Informacion que Sirve</description>
     <link>http://infopoly.github.io/</link>
     <atom:link href="http://infopoly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Nov 2015 12:33:58 -0600</pubDate>
-    <lastBuildDate>Sat, 28 Nov 2015 12:33:58 -0600</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2015 12:45:10 -0600</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2015 12:45:10 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -282,11 +282,11 @@ Y lo puedes comprobar aquí. &lt;a href=&quot;https://www.google.es/maps/timelin
 
 &lt;p&gt;Pero precisamente al ahorrarnos el tormento momentáneo de la instalación primitiva, perdemos de vista muchos de los procesos que realiza nuestra computadora al momento de instalar un SO. Esa es una de las principales causas por las que uso linux, en linux aprendes conceptos importantes como booteo, particionado, gestor de ventanas, gestor de archivos, sistemas de ficheros de archivos, etc. En linux conoces mas como es que trabaja un Sistema Operativo, cuales son sus funciones y el porque es necesario para trabajar con un computador. Linux te permite aprender mas acerca del funcionamiento de un SO, pero la linea de comandos es un vivo recuerdo de que nada en la computación se hace de manera fácil.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/img/resourcesIMG/lineadecomandos.jpg&quot; alt=&quot;Lecturas sobre software-libre&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/lineadecomandos.jpg&quot; alt=&quot;Lecturas sobre software-libre&quot;&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
-&lt;p&gt;&lt;a href=&quot;assets/src/lineadecomandos.pdf&quot;&gt;En el principio fue la linea de comandos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/src/lineadecomandos.pdf&quot;&gt;En el principio fue la linea de comandos&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;En el principio... fue la línea de comandos (In the beginning... was the command line) es un ensayo del escritor estadounidense Neal Stephenson, que utiliza sagaces analogías para situarnos en el contexto de la guerra de los sistemas operativos en las décadas de los 90&amp;#39;s y prácticamente de la rivalidad existente entre Windows y Mac.&lt;/p&gt;
 
@@ -426,7 +426,7 @@ Y es muy importante conocer como el universo se rige por leyes que desafían en 
 
 &lt;p&gt;Todo el mundo debería saber programar: Es un esfuerzo por parte de &lt;a href=&quot;https://code.org/&quot;&gt;code.org&lt;/a&gt;, para darnos a conocer las ventajas de enseñar la programación desde los niveles mas bajos de educación.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/img/resourcesIMG/programares.jpg&quot; alt=&quot;Programar&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/programares.jpg&quot; alt=&quot;Programar&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Entre los que se atribuye que:&lt;/p&gt;
 
@@ -460,7 +460,7 @@ Y es muy importante conocer como el universo se rige por leyes que desafían en 
 
 &lt;p&gt;La relevancia de la tecnología en nuestros días hace que poder interactuar con ella de forma natural ya sea un valor añadido muy importante para este tipo de materias educativas. Los niños que aprenden a programar no solo interactúan con la tecnología: la crean, y se expresan a través de ella de distintas formas.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/img/resourcesIMG/imagenprogramador.jpg&quot; alt=&quot;Programador What!&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/imagenprogramador.jpg&quot; alt=&quot;Programador What!&quot;&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Se necesitan programadores:&lt;/li&gt;
