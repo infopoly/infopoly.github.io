@@ -5,8 +5,8 @@
     <description>Informacion que Sirve</description>
     <link>http://infopoly.github.io/</link>
     <atom:link href="http://infopoly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Nov 2015 22:58:52 -0600</pubDate>
-    <lastBuildDate>Sat, 28 Nov 2015 22:58:52 -0600</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2015 23:14:30 -0600</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2015 23:14:30 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -50,7 +50,7 @@ pero aun sabiendo programar hacer un videojuego es una tarea muy pesada y muy di
 &lt;p&gt;3.-   &lt;strong&gt;Compartir  y colaborar.&lt;/strong&gt; El sitio web de Scratch ofrece no solo inspiración sino audiencia: usted puede hacer pruebas con los proyectos de otros, reutilizar o adaptar sus imágenes y programas, ¡y también publicar sus propios proyectos!
   El objetivo último es desarrollar una comunidad compartida y una cultura alrededor de Scratch.&lt;/p&gt;
 
-&lt;p&gt;Si lo que leíste hasta aquí consiguió despertar tu entusiasmo, te sugiero que visites el sitio oficial de &lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt;, donde encontrarás miles de proyectos (juegos, animaciones, historias interactivas) subidos desde todos los rincones del mundo… en ellos podrás  ver reflejadas las posibilidades de esta herramienta creativa —aún sin tener &lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt; instalado en tu máquina—&lt;/p&gt;
+&lt;p&gt;Si lo que leíste hasta aquí consiguió despertar tu entusiasmo, te sugiero que visites el sitio oficial de &lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt;, donde encontrarás miles de proyectos (juegos, animaciones, historias interactivas) subidos desde todos los rincones del mundo… en ellos podrás  ver reflejadas las posibilidades de esta herramienta creativa —aún sin tener &lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt; instalado en tu máquina—.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Instalar Scratch en Linux 64 bits&lt;/strong&gt;&lt;/p&gt;
 
@@ -81,11 +81,13 @@ pero aun sabiendo programar hacer un videojuego es una tarea muy pesada y muy di
 
 &lt;p&gt;&lt;code&gt;sudo &amp;quot;Adobe AIR Application Installer&amp;quot; /path/to/scratch2/installer/Scratch-437.air&lt;/code&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;para-mas-información-acerca-de-este-lenguaje-visita-eduteka&quot;&gt;Para mas información acerca de este lenguaje: &lt;a href=&quot;http://www.eduteka.org/modulos/9/284/905/1&quot;&gt;Visita eduteka&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;para-mas-información-acerca-de-este-lenguaje&quot;&gt;Para mas información acerca de este lenguaje:&lt;/h3&gt;
 
-&lt;h3 id=&quot;scratch-tutoriales&quot;&gt;&lt;a href=&quot;http://www.scratchbydsigno.com.ar/tutoriales/tutoriales.html&quot;&gt;Scratch Tutoriales&lt;/a&gt;&lt;/h3&gt;
-
-&lt;h3 id=&quot;curso-del-mit-de-scratch&quot;&gt;&lt;a href=&quot;https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-0#!&quot;&gt;Curso del MIT de Scratch&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt; &lt;a href=&quot;http://www.eduteka.org/modulos/9/284/905/1&quot;&gt;Eduteka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&quot;http://www.scratchbydsigno.com.ar/tutoriales/tutoriales.html&quot;&gt;Scratch Tutoriales&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href=&quot;https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-0#!&quot;&gt;Curso del MIT de Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Sat, 28 Nov 2015 00:00:00 -0600</pubDate>
         <link>http://infopoly.github.io/2015/11/28/Que-es-Scratch/</link>
