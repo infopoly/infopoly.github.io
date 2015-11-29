@@ -5,9 +5,106 @@
     <description>Informacion que Sirve</description>
     <link>http://infopoly.github.io/</link>
     <atom:link href="http://infopoly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Nov 2015 13:20:49 -0600</pubDate>
-    <lastBuildDate>Sat, 28 Nov 2015 13:20:49 -0600</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2015 22:58:52 -0600</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2015 22:58:52 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>¿Que es Scratch?</title>
+        <description>&lt;h2 id=&quot;¿que-es-scratch-y-¿para-que-sirve&quot;&gt;¿Que es Scratch? y ¿Para que sirve?&lt;/h2&gt;
+
+&lt;p&gt;Seguramente alguna vez te has interesado en crear un videojuego y seguramente no tienes idea por donde empezar, bueno dejame decirte que para poder realizar un videojuego es necesario saber programar,
+pero aun sabiendo programar hacer un videojuego es una tarea muy pesada y muy difícil, es por eso que los ingenieros modernos han creado software que nos permite crear aplicaciones de una manera mas sencilla,  aprovechando los avances conseguidos en los últimos años en la computación y en el desarrollo de interfaces para hacer que la programación sea más atractiva y accesible para niños, adolescentes y todo aquel que esté interesado en aprender a programar.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Programar desde niño, nos enseña a pensar lógicamente y aprender a abordar los problemas metódicamente.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/logo-scratch.png&quot; alt=&quot;Scratch-Logo&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Uno de esos desarrollos es scratch. &lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt; es un nuevo lenguaje gráfico de programación o de programación visual, que permite a los estudiantes aprender a escribir código de programas de manera fácil y sencilla desde el principio, scratch tiene como lema &amp;quot;Imagina - Programa - Comparte&amp;quot;. Programando con Scratch, cualquiera puede crear historias interactivas, juegos, animaciones, música, producciones artísticas, etc., y compartir sus creaciones con otras personas a través del sitio web oficial de la herramienta) ademas de aprender de los proyectos alojados en el sitio.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Scratch es un medio de expresión para ayudar a niños y jóvenes a manifestar sus ideas de forma creativa, al tiempo que desarrollan habilidades de pensamiento lógico y de aprendizaje del Siglo XXI&amp;quot;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt; fue desarrollado en el Media Lab del MIT (Instituto Tecnológico de Massachusetts) por un equipo dirigido por Mitchel Resnick, apareció por primera vez a mediados de 2007. Scratch es una aplicación completamente libre, de código abierto pero de desarrollo cerrado. El código fuente se consigue libremente pero la aplicación la desarrolla un pequeño grupo de investigadores del Laboratorio de Medios de MIT (MIT Media Lab).&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Para usar Scratch necesitaremos correr un programa —del mismo nombre—, que puede ser considerado como un &amp;quot;entorno de desarrollo&amp;quot;: con él se crearán, visualizarán y compartirán los denominados Proyectos &lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt;. Proyectos realizados en Scratch pueden ser &amp;quot;bajados&amp;quot; desde la Web oficial, como así también se pueden &amp;quot;subir&amp;quot; los propios. Como ya mencione, el lema de Scratch es &amp;quot;Imagina - Programa - Comparte&amp;quot;: el énfasis en el intercambio es una parte importante tras la idea de los creadores, ya que los programas no son vistos como &amp;quot;cajas negras&amp;quot; de contenido inaccesible, sino como objetos abiertos listos para su &amp;quot;remezcla&amp;quot; o su estudio, posibilitándose así la generación de nuevos proyectos.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Mediante la representación de los bloques de construcción de los programas usando bloques con códigos de color (similares a las piezas de un rompecabezas), Scratch le baja la “exigencia” a la programación, permitiendo así enfocarnos en los problemas, en lugar de hacerlo en la sintaxis.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/idescratch.jpg&quot; alt=&quot;Scratch-IDE&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Características importantes de &lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;1.-   &lt;strong&gt;Programar con bloques de construcción.&lt;/strong&gt; Para crear programas en Scratch, usted simplemente encaja bloques gráficos formando pilas con ellos. Los bloques están diseñados para encajar unos en otros pero sólo si son sintácticamente correctos: de esta manera no se producen errores de sintaxis. Diferentes tipos de datos tienen diferentes formas, para eliminar errores de &amp;quot;tipo de dato&amp;quot;.
+  Usted puede cambiar las pilas de bloques aún cuando los programas se estén ejecutando, así que es fácil experimentar con nuevas ideas de manera incremental e iterativa.&lt;/p&gt;
+
+&lt;p&gt;2.-   &lt;strong&gt;Manipulación de medios.&lt;/strong&gt; Con Scratch, usted puede crear programas que controlan y mezclan gráficas,             animaciones, música y sonido, por lo que los proyectos resultado de su uso pueden encuadrarse dentro de lo denominado multimediático.&lt;/p&gt;
+
+&lt;p&gt;3.-   &lt;strong&gt;Compartir  y colaborar.&lt;/strong&gt; El sitio web de Scratch ofrece no solo inspiración sino audiencia: usted puede hacer pruebas con los proyectos de otros, reutilizar o adaptar sus imágenes y programas, ¡y también publicar sus propios proyectos!
+  El objetivo último es desarrollar una comunidad compartida y una cultura alrededor de Scratch.&lt;/p&gt;
+
+&lt;p&gt;Si lo que leíste hasta aquí consiguió despertar tu entusiasmo, te sugiero que visites el sitio oficial de &lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt;, donde encontrarás miles de proyectos (juegos, animaciones, historias interactivas) subidos desde todos los rincones del mundo… en ellos podrás  ver reflejadas las posibilidades de esta herramienta creativa —aún sin tener &lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt; instalado en tu máquina—&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Instalar Scratch en Linux 64 bits&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Descargar Adobe Air y Scratch desde &lt;a href=&quot;https://scratch.mit.edu/scratch2download/&quot;&gt;Aquí&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Instalar las siguientes librerías.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code&gt;sudo apt-get install libxt6:i386 libnspr4-0d:i386 libgtk2.0-0:i386 libstdc++6:i386 libnss3-1d:i386 lib32nss-mdns libxml2:i386 libxslt1.1:i386 libcanberra-gtk-module:i386 gtk2-engines-murrine:i386&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Crear un link simbólico con gnome keyring:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code&gt;sudo ln -s /usr/lib/x86_64-linux-gnu/libgnome-keyring.so.0 /usr/lib/libgnome-keyring.so.0&lt;/code&gt;
+&lt;code&gt;sudo ln -s /usr/lib/x86_64-linux-gnu/libgnome-keyring.so.0.2.0 /usr/lib/libgnome-keyring.so.0.2.0&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cambiar cd /path/... al directorio de AdobeAIRInstaller.bin y cambiar los permisos de ejecución.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code&gt;sudo chmod +x AdobeAIRInstaller.bin&lt;/code&gt;
+&lt;code&gt;sudo ./AdobeAIRInstaller.bin&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Instalar:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code&gt;sudo &amp;quot;Adobe AIR Application Installer&amp;quot; /path/to/scratch2/installer/Scratch-437.air&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;para-mas-información-acerca-de-este-lenguaje-visita-eduteka&quot;&gt;Para mas información acerca de este lenguaje: &lt;a href=&quot;http://www.eduteka.org/modulos/9/284/905/1&quot;&gt;Visita eduteka&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;scratch-tutoriales&quot;&gt;&lt;a href=&quot;http://www.scratchbydsigno.com.ar/tutoriales/tutoriales.html&quot;&gt;Scratch Tutoriales&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;curso-del-mit-de-scratch&quot;&gt;&lt;a href=&quot;https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-0#!&quot;&gt;Curso del MIT de Scratch&lt;/a&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Sat, 28 Nov 2015 00:00:00 -0600</pubDate>
+        <link>http://infopoly.github.io/2015/11/28/Que-es-Scratch/</link>
+        <guid isPermaLink="true">http://infopoly.github.io/2015/11/28/Que-es-Scratch/</guid>
+        
+        <category>programación</category>
+        
+        <category>linux</category>
+        
+        <category>ubuntu</category>
+        
+        <category>linux-mint</category>
+        
+        <category>scratch</category>
+        
+        <category>niños</category>
+        
+        
+      </item>
     
       <item>
         <title>Videos Una de Mates</title>
@@ -522,37 +619,6 @@ Y es muy importante conocer como el universo se rige por leyes que desafían en 
         <category>software</category>
         
         <category>universidades</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>¿Qué es tor? y ¿Cómo funciona?</title>
-        <description>&lt;h2 id=&quot;navegación-segura-y-privada-con-tor&quot;&gt;Navegación segura y privada con Tor.&lt;/h2&gt;
-
-&lt;p&gt;Buscas un producto en Amazon y de pronto te aparece propaganda amazon en todos los sitios que visitas. ¿Te preocupa tu privacidad? Deberías probar navegar por la red Tor.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/imagentor.jpg&quot; alt=&quot;Tor for everyone&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;El siguente video explica cómo la vigilancia masiva se utiliza con fines políticos y comerciales, cómo funciona Tor siendo una alternativa para no exponerse a esa vigilancia y cómo hacerse parte. En esto último, indican la importancia de que más personas ocupen Tor para contribuir no solo con la vigilancia hacia su propia persona, sino que también ayudar a proteger a otras personas como por ejemplo “activistas, periodistas y blogueros”. Finalmente, se hace mención a que puedas contribuir con un servidor, puesto que es uno de los puntos fundamentales para que la red de Tor funcione bien y permita que el nivel de descentralización sea grande para evitar que muchas de las conexiones se concentren en pocos servidores. Esto fortalece la red de Tor haciendo más difícil el rastreo de personas.&lt;/p&gt;
-
-&lt;figure class=&#39;BetterTube&#39; data-youtube-id=&#39;Sz_J6vJ4MYw&#39; data-player-width=&#39;560&#39; data-player-height=&#39;315&#39; id=&#39;Sz_J6vJ4MYw&#39; style=&#39;padding-bottom: 56.25%&#39;&gt;&lt;a class=&#39;BetterTubePlayer&#39; href=&#39;http://www.youtube.com/watch?v=a_426RiwST8&#39; style=&#39;background: url(http://img.youtube.com/vi/Sz_J6vJ4MYw/hqdefault.jpg) 50% 50% no-repeat rgb(0, 0, 0);&#39;&gt;&lt;/a&gt;&lt;div class=&#39;BetterTube-playBtn&#39;&gt;&lt;/div&gt;&amp;nbsp;&lt;/figure&gt;
-
-&lt;p&gt;Bueno y hasta premiado.&lt;/p&gt;
-
-&lt;p&gt;&lt;a title=&quot;Orbot Proxy con Tor ganador Mejor software libre para móvil en los Premios PortalProgramas&quot; href=&quot;http://www.portalprogramas.com/software-libre/premios/proyecto/Orbot-Proxy-con-Tor&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://cdn6.portalprogramasnet.com/imagenes/premios-software-libre/ganadores/mejor-software-libre-movil.2014.png&quot; alt=&quot;Ganador como Mejor software libre para móvil en los Premios PortalProgramas al mejor software libre 2014&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 20 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://infopoly.github.io/2015/08/20/Como-funciona-tor/</link>
-        <guid isPermaLink="true">http://infopoly.github.io/2015/08/20/Como-funciona-tor/</guid>
-        
-        <category>tor</category>
-        
-        <category>internet</category>
-        
-        <category>www</category>
-        
-        <category>privacidad</category>
         
         
       </item>
