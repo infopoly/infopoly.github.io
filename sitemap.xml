@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://infopoly.github.io/2015/12/04/Demostracion-Relatividad/</loc>
+      
+        <lastmod>2015-12-04T00:00:00-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://infopoly.github.io/2015/11/28/Que-es-Scratch/</loc>
       
         <lastmod>2015-11-28T00:00:00-06:00</lastmod>
@@ -475,7 +490,7 @@
     <url>
       <loc>http://infopoly.github.io404.html</loc>
       
-        <lastmod>2015-11-28T23:14:30-06:00</lastmod>
+        <lastmod>2015-12-04T14:55:10-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -493,7 +508,7 @@
     <url>
       <loc>http://infopoly.github.io/archives/all/</loc>
       
-        <lastmod>2015-11-28T23:14:30-06:00</lastmod>
+        <lastmod>2015-12-04T14:55:10-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -511,7 +526,7 @@
     <url>
       <loc>http://infopoly.github.io/blog_roll/</loc>
       
-        <lastmod>2015-11-28T23:14:30-06:00</lastmod>
+        <lastmod>2015-12-04T14:55:10-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -534,7 +549,7 @@
     <url>
       <loc>http://infopoly.github.io</loc>
       
-        <lastmod>2015-11-28T23:14:30-06:00</lastmod>
+        <lastmod>2015-12-04T14:55:10-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -567,7 +582,7 @@
     <url>
       <loc>http://infopoly.github.io/search/</loc>
       
-        <lastmod>2015-11-28T23:14:30-06:00</lastmod>
+        <lastmod>2015-12-04T14:55:10-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -600,7 +615,7 @@
     <url>
       <loc>http://infopoly.github.io/tags/</loc>
       
-        <lastmod>2015-11-28T23:14:30-06:00</lastmod>
+        <lastmod>2015-12-04T14:55:10-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -618,7 +633,7 @@
     <url>
       <loc>http://infopoly.github.io</loc>
       
-        <lastmod>2015-11-28T23:14:30-06:00</lastmod>
+        <lastmod>2015-12-04T14:55:10-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -636,7 +651,7 @@
     <url>
       <loc>http://infopoly.github.io</loc>
       
-        <lastmod>2015-11-28T23:14:30-06:00</lastmod>
+        <lastmod>2015-12-04T14:55:10-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -654,7 +669,7 @@
     <url>
       <loc>http://infopoly.github.io</loc>
       
-        <lastmod>2015-11-28T23:14:30-06:00</lastmod>
+        <lastmod>2015-12-04T14:55:10-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -668,3 +683,4 @@
 
   
 </urlset>
+
