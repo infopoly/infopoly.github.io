@@ -1,6 +1,16 @@
 [
 
 {
+"id": "-2016-02-06-Arduino",
+"title": "Arduino - Fuerza no Cerebro",
+"author": null,
+"tags": ["programación", "arduino", "microcontroladores", "sistemas-digitales"],
+"url": "/2016/02/06/Arduino/",
+"date": "2016-02-06",
+"content": "Arduino la programación a otro nivel.Imagina la capacidad de realizar un programa de computo y la posibilidad de llevarlo al mundo físico, definitivamente eso es arduino, la capacidad de llevar el mundo físico al virtual, todo un entorno de desarrollo con la facilidad de los sistemas de software modernos.Gracias a arduino seremos capaces de realizar un programa de software que maneje un actuador para realizar cierta acción por ejemplo activar un motor o bien encender y apagar luces ó un sistema de aire acondicionado, también podremos leer sensores de humedad, temperatura o de presión atmosférica y darle a la computadora datos del mundo físico que pueda manejar.&nbsp;Arduino como lo explica el video es básicamente un microcontrolador y un microcontrolador es básicamente una computadora pequeña, lo que diferencia un microcontrolador de una computadora con microprocesador es que el microcontrolador incluye todas las partes de una computadora es un solo encapsulado, mientras que la computadora dentro del mother board o tarjeta madre los incluye todos, por ejemplo el CPU, la ALU, Memoria ROM, Memoria RAM, etc.Ventajas de ArduinoBarato: Las placas Arduino son relativamente baratas comparadas con otras plataformas microcontroladores. La versión menos cara del modulo Arduino puede ser ensamblada a mano, e incluso los módulos de Arduino pre ensamblados cuestan menos de 50$.Multiplataforma: El software de Arduino se ejecuta en sistemas operativos Windows, Macintosh OSX y GNU/Linux. La mayoría de los sistemas microcontroladores están limitados a Windows.Entorno de programación simple y claro: El entorno de programación de Arduino es fácil de usar para principiantes, pero su#cientemente #flexible para que usuarios avanzados puedan aprovecharlo también. Para profesores, está convenientemente basado en el entorno de programación Processing, de manera que estudiantes aprendiendo a programar en ese entorno estarán familiarizados con el aspecto y la imagen de Arduino.Código abierto y software extensible: El software Arduino está publicado como herramientas de código abierto, disponible para extensión por programadores experimentados. El lenguaje puede ser expandido mediante librerías C++, y la gente que quiera entender los detalles técnicos pueden hacer el salto desde Arduino a la programación en lenguaje AVR C en el cual está basado. De forma similar, puedes añadir código AVR-C directamente en tus programas Arduino si quieres.Código abierto y hardware extensible: El Arduino está basado en microcontroladores ATMEGA8 y ATMEGA168 de Atmel. Los planos para los módulos están publicados bajo licencia Creative Commons, por lo que diseñadores experimentados de circuitos pueden hacer su propia versión del módulo, extendiéndolo y mejorándolo. Incluso usuarios relativamente inexpertos pueden construir la versión de la placa del módulo para entender como funciona y ahorrar dinero."
+}, 
+
+{
 "id": "-2016-01-01-En-el-principio",
 "title": "La Creación del Programador",
 "author": null,
@@ -288,16 +298,6 @@
 "url": "/2015/04/13/Tecnologia-de-Punta/",
 "date": "2015-04-13",
 "content": "Rusia a través de RT en Español.Rusia es un lugar muy alejado de nuestros vecinos del norte(usa), pero también allá, se están llevando a cabo investigaciones, desarrollo científico y tecnológico y RT hace un esfuerzo por traernos a Rusia hasta nuestros hogares. Gracias a las bondades del internet y en particular a youtube.&nbsp;"
-}, 
-
-{
-"id": "-2015-04-10-Curso-android-UPV",
-"title": "Curso Android UPV",
-"author": null,
-"tags": ["android", "tutorial", "develop", "programación"],
-"url": "/2015/04/10/Curso-android-UPV/",
-"date": "2015-04-10",
-"content": "Curso de Desarrollo de Aplicaciones Android por la UPVLa Universidad Politécnica de Valencia, ofrece muchos de los cursos que imparte dentro de su Facultad,a través de la enseñanza en linea, siguiendo la filosofía GNU/Linux y cursos MOOC,estos cursos se pueden compartir. Están en español y la verdad son muy buenos. Debemos recordar que es muy difícil encontrar material en español para aprender a desarrollar en android. Así que.“A aprovechar este magnifico curso…”&nbsp;"
 }, 
 
 {

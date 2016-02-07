@@ -5,9 +5,46 @@
     <description>Informacion que Sirve</description>
     <link>http://infopoly.github.io//</link>
     <atom:link href="http://infopoly.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Jan 2016 20:34:01 -0600</pubDate>
-    <lastBuildDate>Sat, 02 Jan 2016 20:34:01 -0600</lastBuildDate>
+    <pubDate>Sat, 06 Feb 2016 22:29:14 -0600</pubDate>
+    <lastBuildDate>Sat, 06 Feb 2016 22:29:14 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Arduino - Fuerza no Cerebro</title>
+        <description>&lt;h2 id=&quot;arduino-la-programación-a-otro-nivel&quot;&gt;Arduino la programación a otro nivel.&lt;/h2&gt;
+
+&lt;p&gt;Imagina la capacidad de realizar un programa de computo y la posibilidad de llevarlo al mundo físico, definitivamente eso es arduino, la capacidad de llevar el mundo físico al virtual, todo un entorno de desarrollo con la facilidad de los sistemas de software modernos.&lt;/p&gt;
+
+&lt;p&gt;Gracias a arduino seremos capaces de realizar un programa de software que maneje un actuador para realizar cierta acción por ejemplo activar un motor o bien encender y apagar luces ó un sistema de aire acondicionado, también podremos leer sensores de humedad, temperatura o de presión atmosférica y darle a la computadora datos del mundo físico que pueda manejar.&lt;/p&gt;
+
+&lt;figure class=&#39;BetterTube&#39; data-youtube-id=&#39;7vhvnaWUZjE&#39; data-player-width=&#39;560&#39; data-player-height=&#39;315&#39; id=&#39;7vhvnaWUZjE&#39; style=&#39;padding-bottom: 56.25%&#39;&gt;&lt;a class=&#39;BetterTubePlayer&#39; href=&#39;http://www.youtube.com/watch?v=a_426RiwST8&#39; style=&#39;background: url(http://img.youtube.com/vi/7vhvnaWUZjE/hqdefault.jpg) 50% 50% no-repeat rgb(0, 0, 0);&#39;&gt;&lt;/a&gt;&lt;div class=&#39;BetterTube-playBtn&#39;&gt;&lt;/div&gt;&amp;nbsp;&lt;/figure&gt;
+
+&lt;p&gt;Arduino como lo explica el video es básicamente un microcontrolador y un microcontrolador es básicamente una computadora pequeña, lo que diferencia un microcontrolador de una computadora con microprocesador es que el microcontrolador incluye todas las partes de una computadora es un solo encapsulado, mientras que la computadora dentro del mother board o tarjeta madre los incluye todos, por ejemplo el CPU, la ALU, Memoria ROM, Memoria RAM, etc.&lt;/p&gt;
+
+&lt;h3 id=&quot;ventajas-de-arduino&quot;&gt;Ventajas de Arduino&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Barato: Las placas Arduino son relativamente baratas comparadas con otras plataformas microcontroladores. La versión menos cara del modulo Arduino puede ser ensamblada a mano, e incluso los módulos de Arduino pre ensamblados cuestan menos de 50$.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Multiplataforma: El software de Arduino se ejecuta en sistemas operativos Windows, Macintosh OSX y GNU/Linux. La mayoría de los sistemas microcontroladores están limitados a Windows.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Entorno de programación simple y claro: El entorno de programación de Arduino es fácil de usar para principiantes, pero su#cientemente #flexible para que usuarios avanzados puedan aprovecharlo también. Para profesores, está convenientemente basado en el entorno de programación Processing, de manera que estudiantes aprendiendo a programar en ese entorno estarán familiarizados con el aspecto y la imagen de Arduino.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Código abierto y software extensible: El software Arduino está publicado como herramientas de código abierto, disponible para extensión por programadores experimentados. El lenguaje puede ser expandido mediante librerías C++, y la gente que quiera entender los detalles técnicos pueden hacer el salto desde Arduino a la programación en lenguaje AVR C en el cual está basado. De forma similar, puedes añadir código AVR-C directamente en tus programas Arduino si quieres.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Código abierto y hardware extensible: El Arduino está basado en microcontroladores ATMEGA8 y ATMEGA168 de Atmel. Los planos para los módulos están publicados bajo licencia Creative Commons, por lo que diseñadores experimentados de circuitos pueden hacer su propia versión del módulo, extendiéndolo y mejorándolo. Incluso usuarios relativamente inexpertos pueden construir la versión de la placa del módulo para entender como funciona y ahorrar dinero.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 06 Feb 2016 00:00:00 -0600</pubDate>
+        <link>http://infopoly.github.io//2016/02/06/Arduino/</link>
+        <guid isPermaLink="true">http://infopoly.github.io//2016/02/06/Arduino/</guid>
+        
+        <category>programación</category>
+        
+        <category>arduino</category>
+        
+        <category>microcontroladores</category>
+        
+        <category>sistemas-digitales</category>
+        
+        
+      </item>
     
       <item>
         <title>La Creación del Programador</title>
@@ -28,6 +65,8 @@
 &lt;p&gt;Y Dios creó al Programador; y lo puso en el Centro de Datos; y Dios le enseñó al Programador el Directorio y le dijo: &lt;i&gt;Puedes usar todos los Volúmenes y Subdirectorios, pero &lt;b&gt;NO USES WINDOWS&lt;/b&gt;.&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Y Dios dijo:&lt;/b&gt; no es bueno que el programador esté solo. Cogió un hueso del cuerpo del Programador y creó una criatura que miraría al Programador y admiraría al Programador y amaría las cosas que el programador hiciese. Y Dios llamó a la criatura: &lt;i&gt;el Usuario&lt;/i&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;p&gt;Y el Programador y el Usuario fueron dejados en el desnudo y simple DOS y Dios vio que eso era bueno.&lt;/p&gt;
 
@@ -518,99 +557,6 @@ Y lo puedes comprobar aquí. &lt;a href=&quot;https://www.google.es/maps/timelin
         <category>gnu</category>
         
         <category>ubuntu</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>El Universo Mecánico</title>
-        <description>&lt;h2 id=&quot;física-de-alto-nivel-con-el-mínimo-esfuerzo&quot;&gt;Física de alto nivel con el mínimo esfuerzo&lt;/h2&gt;
-
-&lt;p&gt;Durante tu formación como ingeniero es importante conocer las bases físicas del mundo que te rodea. Créeme hay cosas que no imaginabas que fueran posibles hasta que las descubres por ti mismo(asimilación).
-Y es muy importante conocer como el universo se rige por leyes que desafían en algunos casos nuestra intuición.&lt;/p&gt;
-
-&lt;p&gt;El Instituto de Tecnología de California ha desarrollado material audio-visual para ponernos al corriente con los grandes descubrimientos científicos.&lt;/p&gt;
-
-&lt;p&gt;La serie presenta la física a nivel universitario, abarcando temas desde Copérnico a la mecánica cuántica. Para ello utiliza dramatizaciones históricas y animaciones que explican conceptos de la física. Cada episodio se abre y se cierra con una conferencia &amp;quot;fantasma&amp;quot; del profesor David Goodstein del Instituto Tecnológico de California.&lt;/p&gt;
-
-&lt;p&gt;A pesar de su antigüedad, la serie se utiliza muy a menudo incluso hoy día, gracias al gran rigor científico de su contenido y a su cuidadosa exposición de hechos y supuestos prácticos, como una ayuda suplementaria para explicar fenómenos como la relatividad especial. Durante el transcurso de los vídeos se abarcan contenidos como la electricidad, la mecánica clásica, el electromagnetismo, la termodinámica, la relatividad y la mecánica cuántica, así como aborda las biografías de los más importantes científicos de la historia y sus descubrimientos, como por ejemplo Johannes Kepler, Isaac Newton, Galileo Galilei o Albert Einstein, entre otros.&lt;/p&gt;
-
-&lt;figure class=&#39;BetterTube&#39; data-youtube-id=&#39;92QDL9MnnBk&#39; data-player-width=&#39;560&#39; data-player-height=&#39;315&#39; id=&#39;92QDL9MnnBk&#39; style=&#39;padding-bottom: 56.25%&#39;&gt;&lt;a class=&#39;BetterTubePlayer&#39; href=&#39;http://www.youtube.com/watch?v=a_426RiwST8&#39; style=&#39;background: url(http://img.youtube.com/vi/92QDL9MnnBk/hqdefault.jpg) 50% 50% no-repeat rgb(0, 0, 0);&#39;&gt;&lt;/a&gt;&lt;div class=&#39;BetterTube-playBtn&#39;&gt;&lt;/div&gt;&amp;nbsp;&lt;/figure&gt;
-
-&lt;!-- ## Lista de Capítulos
-
-* Introducción al Universo mecánico
-* La ley de la caída de los cuerpos
-* Derivadas
-* Inercia
-* Vectores
-* La ley de Newton
-* Integración
-* La manzana y la Luna
-* El círculo en movimiento
-* Las fuerzas fundamentales de la naturaleza
-* Gravedad, electricidad y magnetismo
-* El experimento Millikan
-* Conservación de la energía
-* Energía potencial
-* Conservación del momento
-* Movimiento armónico
-* Resonancia
-* Ondas
-* Momento cinético
-* Torsión y giroscopios
-* Las tres leyes de Kepler
-* El problema de Kepler
-* Energía y excentricidad
-* Navegar por el espacio
-* Desde Kepler a Einstein
-* La armonía del Universo
-* Más allá del Universo mecánico
-* Electricidad estática
-* El campo eléctrico
-* Capacidad y potencial
-* Voltaje, energía y fuerza
-* La batería eléctrica
-* Circuitos eléctricos
-* Magnetismo
-* Campo magnético
-* Campos vectoriales e hidrodinámicos
-* Inducción electromagnética
-* Corrientes alternas
-* Las ecuaciones de Maxwell
-* Óptica
-* El experimento Michelson-Morley
-* La transformación de Lorentz
-* Velocidad y tiempo
-* Energía, cantidad de momento y masa
-* Temperatura y la ley de los gases
-* La maquina de la naturaleza
-* Entropía
-* Bajas temperaturas
-* El átomo
-* Partículas y ondas
-* Del átomo al quark
-* El Universo cuántico mecánico --&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;La información sin aplicación no es conocimiento.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;conocimiento: Facultad del ser humano para comprender por medio de la razón la naturaleza, cualidades y relaciones de las cosas.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Fri, 11 Sep 2015 00:00:00 -0500</pubDate>
-        <link>http://infopoly.github.io//2015/09/11/Universo-Mecanico/</link>
-        <guid isPermaLink="true">http://infopoly.github.io//2015/09/11/Universo-Mecanico/</guid>
-        
-        <category>física</category>
-        
-        <category>universo</category>
-        
-        <category>mecánica</category>
-        
-        <category>youtube</category>
         
         
       </item>
