@@ -5,30 +5,55 @@
     <description>Informacion que Sirve</description>
     <link>http://infopoly.github.io//</link>
     <atom:link href="http://infopoly.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Feb 2016 22:29:14 -0600</pubDate>
-    <lastBuildDate>Sat, 06 Feb 2016 22:29:14 -0600</lastBuildDate>
+    <pubDate>Fri, 12 Feb 2016 21:56:34 -0600</pubDate>
+    <lastBuildDate>Fri, 12 Feb 2016 21:56:34 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Arduino - Fuerza no Cerebro</title>
         <description>&lt;h2 id=&quot;arduino-la-programación-a-otro-nivel&quot;&gt;Arduino la programación a otro nivel.&lt;/h2&gt;
 
-&lt;p&gt;Imagina la capacidad de realizar un programa de computo y la posibilidad de llevarlo al mundo físico, definitivamente eso es arduino, la capacidad de llevar el mundo físico al virtual, todo un entorno de desarrollo con la facilidad de los sistemas de software modernos.&lt;/p&gt;
+&lt;p&gt;Imagina la capacidad de realizar un programa de computo y la posibilidad de llevarlo al mundo físico, definitivamente eso es arduino, la capacidad de llevar el mundo virtual al físico, arduino es todo un entorno de desarrollo para pequeños microcontroladores(diminutas computadoras), que incluye un Entorno de Desarrollo Integrado(IDE) un lenguaje de programación propio de arduino, un hardware especifico y libre, todo esto con la facilidad de desarrollo de los sistemas de software y hardware modernos.&lt;/p&gt;
 
-&lt;p&gt;Gracias a arduino seremos capaces de realizar un programa de software que maneje un actuador para realizar cierta acción por ejemplo activar un motor o bien encender y apagar luces ó un sistema de aire acondicionado, también podremos leer sensores de humedad, temperatura o de presión atmosférica y darle a la computadora datos del mundo físico que pueda manejar.&lt;/p&gt;
+&lt;p&gt;Gracias a arduino seremos capaces de realizar un programa de software que maneje un actuador para realizar cierta acción por ejemplo activar un motor o bien encender y apagar luces ó un sistema de aire acondicionado, también podremos leer sensores de humedad, temperatura o de presión atmosférica y alimentar este pequeño microcontrolador con datos del mundo físico para que los pueda manejar.&lt;/p&gt;
 
 &lt;figure class=&#39;BetterTube&#39; data-youtube-id=&#39;7vhvnaWUZjE&#39; data-player-width=&#39;560&#39; data-player-height=&#39;315&#39; id=&#39;7vhvnaWUZjE&#39; style=&#39;padding-bottom: 56.25%&#39;&gt;&lt;a class=&#39;BetterTubePlayer&#39; href=&#39;http://www.youtube.com/watch?v=a_426RiwST8&#39; style=&#39;background: url(http://img.youtube.com/vi/7vhvnaWUZjE/hqdefault.jpg) 50% 50% no-repeat rgb(0, 0, 0);&#39;&gt;&lt;/a&gt;&lt;div class=&#39;BetterTube-playBtn&#39;&gt;&lt;/div&gt;&amp;nbsp;&lt;/figure&gt;
 
 &lt;p&gt;Arduino como lo explica el video es básicamente un microcontrolador y un microcontrolador es básicamente una computadora pequeña, lo que diferencia un microcontrolador de una computadora con microprocesador es que el microcontrolador incluye todas las partes de una computadora es un solo encapsulado, mientras que la computadora dentro del mother board o tarjeta madre los incluye todos, por ejemplo el CPU, la ALU, Memoria ROM, Memoria RAM, etc.&lt;/p&gt;
 
+&lt;!--more--&gt;
+
 &lt;h3 id=&quot;ventajas-de-arduino&quot;&gt;Ventajas de Arduino&lt;/h3&gt;
 
+&lt;p&gt;&lt;em&gt;Barato:&lt;/em&gt; Las placas Arduino son relativamente baratas comparadas con otras plataformas microcontroladores. La versión menos cara del modulo Arduino puede ser ensamblada a mano, e incluso los módulos de Arduino pre ensamblados cuestan menos de 50$.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Multiplataforma:&lt;/em&gt; El software de Arduino se ejecuta en sistemas operativos Windows, Macintosh OSX y GNU/Linux. La mayoría de los sistemas microcontroladores están limitados a Windows.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Entorno de programación simple y claro:&lt;/em&gt; El entorno de programación de Arduino es fácil de usar para principiantes, pero suficientemente flexible para que usuarios avanzados puedan aprovecharlo también. Para profesores, está convenientemente basado en el entorno de programación Processing, de manera que estudiantes aprendiendo a programar en ese entorno estarán familiarizados con el aspecto y la imagen de Arduino.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Código abierto y software extensible:&lt;/em&gt; El software Arduino está publicado como herramientas de código abierto, disponible para extensión por programadores experimentados. El lenguaje puede ser expandido mediante librerías C++, y la gente que quiera entender los detalles técnicos pueden hacer el salto desde Arduino a la programación en lenguaje AVR C en el cual está basado. De forma similar, puedes añadir código AVR-C directamente en tus programas Arduino si quieres.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Código abierto y hardware extensible:&lt;/em&gt; El Arduino está basado en microcontroladores ATMEGA8 y ATMEGA168 de Atmel. Los planos para los módulos están publicados bajo licencia Creative Commons, por lo que diseñadores experimentados de circuitos pueden hacer su propia versión del módulo, extendiéndolo y mejorándolo. Incluso usuarios relativamente inexpertos pueden construir la versión de la placa del módulo para entender como funciona y ahorrar dinero.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/arduinos.jpg&quot; alt=&quot;arduinos&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;El hardware Arduino más sencillo consiste en una placa con un microcontrolador y una serie de puertos de entrada y salida. Los microcontroladores AVR más usados son el Atmega168, Atmega328, Atmega1280, y Atmega8 por su sencillez y bajo coste que permiten el desarrollo de múltiples diseños, aunque también nos encontramos microcontroladores CortexM3 de ARM de 32 bits,5 que coexistirán con las más limitadas, pero también económicas AVR de 8 bits. ARM y AVR son plataformas diferentes, pero gracias al IDE de Arduino los programas se compilan y luego se ejecutan sin cambios en cualquiera de las plataformas.&lt;/p&gt;
+
+&lt;p&gt;Tu mismo puedes crearte tu propia placa compatible con Arduino, en el Arduino IDE existe una opción que se llama Grabar secuencia de arranque. Esta opción puede servir para grabar la secuencia de bootloader (cargador de inicio) en el microcontrolador de Arduino.&lt;/p&gt;
+
+&lt;p&gt;Diagrama de los pines de arduino.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/arduino.jpg&quot; alt=&quot;arduino&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Definitivamente arduino es una excelente opción para extender la programación.&lt;/p&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Barato: Las placas Arduino son relativamente baratas comparadas con otras plataformas microcontroladores. La versión menos cara del modulo Arduino puede ser ensamblada a mano, e incluso los módulos de Arduino pre ensamblados cuestan menos de 50$.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Multiplataforma: El software de Arduino se ejecuta en sistemas operativos Windows, Macintosh OSX y GNU/Linux. La mayoría de los sistemas microcontroladores están limitados a Windows.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Entorno de programación simple y claro: El entorno de programación de Arduino es fácil de usar para principiantes, pero su#cientemente #flexible para que usuarios avanzados puedan aprovecharlo también. Para profesores, está convenientemente basado en el entorno de programación Processing, de manera que estudiantes aprendiendo a programar en ese entorno estarán familiarizados con el aspecto y la imagen de Arduino.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Código abierto y software extensible: El software Arduino está publicado como herramientas de código abierto, disponible para extensión por programadores experimentados. El lenguaje puede ser expandido mediante librerías C++, y la gente que quiera entender los detalles técnicos pueden hacer el salto desde Arduino a la programación en lenguaje AVR C en el cual está basado. De forma similar, puedes añadir código AVR-C directamente en tus programas Arduino si quieres.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Código abierto y hardware extensible: El Arduino está basado en microcontroladores ATMEGA8 y ATMEGA168 de Atmel. Los planos para los módulos están publicados bajo licencia Creative Commons, por lo que diseñadores experimentados de circuitos pueden hacer su propia versión del módulo, extendiéndolo y mejorándolo. Incluso usuarios relativamente inexpertos pueden construir la versión de la placa del módulo para entender como funciona y ahorrar dinero.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://arduino.cc/&quot;&gt;Arduino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.coursera.org/learn/electrones-en-accion/&quot;&gt;Curso Arduino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLpOqH6AE0tNgrhG4Lca75PMoE-yHrwcDq&quot;&gt;Proyectos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://learn.adafruit.com/category/learn-arduino&quot;&gt;Adafruit&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 06 Feb 2016 00:00:00 -0600</pubDate>
