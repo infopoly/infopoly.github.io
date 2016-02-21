@@ -1,6 +1,16 @@
 [
 
 {
+"id": "-2016-02-12-Processing",
+"title": "Processing - Software Interactivo",
+"author": null,
+"tags": ["programación", "processing", "software", "lenguaje", "visual"],
+"url": "/2016/02/12/Processing/",
+"date": "2016-02-12",
+"content": "Processing programación interactiva.Processing es un lenguaje de programación y entorno de desarrollo integrado de código abierto basado en Java, el cual nos sirve como medio para la enseñanza y puesta en marcha de proyectos multimedia e interactivos para el diseño digital, al estar basado en Java, puede heredar todas sus funcionalidades, convirtiéndose en una herramienta poderosa a la hora de encarar proyectos complejos.Obtener processing es sencillo solo basta descargar el IDE desde la pagina principal, processing.org y cargar algunos ejemplos desde el menú para ver las posibilidades que nos ofrece processing.&nbsp;Processing llama la atención con las posibilidades que ofrece al momento de crear contenido interactivo, y es una excelente herramienta para interactuar con el mundo físico a través de la realidad aumentada o a través  de la realidad virtual, por si fuera poco, ademas de su potencia, tiene la capacidad de expandir sus funcionalidades con herramientas, librerías y modos y por lo tanto es posible correr proyectos en android, en la web, GUI&#39;s y juegos 2d.//Programa de ejemplo introductorio a Processing//Pinta un texto de saludo y una linea acorde a la posición del mousevoid setup(){  //se ajusta el tamanio de la ventana  size(500,500);}void draw (){  //pone el fondo de color gris  background (128);  //ajusta el tamanio del texto  textSize(25);  //define el texto y sus coordenadas  text(&quot;Hola al Mundo de processing&quot;,50,200);  //dibuja una linea entre el origen de coordenadas y la posición del mouse  line(0,0,mouseX,mouseY);}De hecho una vez compilado el proyecto es posible exportarlo como un ejecutable en windows, web y &quot;Linux&quot;, ya que corre sobre la plataforma java.Processing es sin duda una solución innovadora e interesante para proyectos multimedia, en definitiva el panorama para processing es favorable y lo veremos como una de las soluciones preferidas por los nuevos programadores.LinksTutosCursosEjemplos"
+}, 
+
+{
 "id": "-2016-02-06-Arduino",
 "title": "Arduino - Fuerza no Cerebro",
 "author": null,
