@@ -5,9 +5,192 @@
     <description>Informacion que Sirve</description>
     <link>http://infopoly.github.io//</link>
     <atom:link href="http://infopoly.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Feb 2016 22:42:43 -0600</pubDate>
-    <lastBuildDate>Sat, 20 Feb 2016 22:42:43 -0600</lastBuildDate>
+    <pubDate>Sun, 17 Jul 2016 21:41:58 -0500</pubDate>
+    <lastBuildDate>Sun, 17 Jul 2016 21:41:58 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Ecuaciones y Matemáticas.</title>
+        <description>&lt;h2 id=&quot;las-ecuaciones-matemáticas-que-cambiaron-el-mundo&quot;&gt;Las ecuaciones matemáticas que cambiaron el mundo.&lt;/h2&gt;
+
+&lt;p&gt;En el lenguaje de las matemáticas, las ecuaciones son como la poesía establecen verdades únicas y lo hacen con gran precisión, compactan grandes volúmenes de información en términos mas bien breves y, por lo general, son difíciles de entender por alguien que no se ha detenido a estudiarlas. Y así como la poesía nos ayuda a ver profundamente en nuestro interior, las matemáticas nos ayudan a ver mas allá de nosotros mismos; si a diferencia de la poesía con las matemáticas no podemos bajar, por lo menos sí podremos comprenderlo.&lt;/p&gt;
+
+&lt;p&gt;Comenzaremos definiendo una ecuación matemática. Una ecuación matemática es una expresión basada en números y letras, que permiten relacionar el comportamiento de cierto evento o fenómeno natural(aplicación física) o bien igualar algún concepto abstracto(aplicación matemática) con una entidad conocida. A lo largo de la historia, han existido una gran cantidad de desarrollos matemáticos, unos totalmente predecibles desde el punto de vista intuitivo(por lo tanto no requirieron mucho razonamiento) y otros desarrollos, fruto de una gran inspiración y entre estos existen algunos desarrollos que cuesta creer, como alguien pudo haber llegado hasta ahí, han sido verdaderas inspiraciones divinas, de estos últimos hablaremos en este post.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;el-teorema-de-pitágoras&quot;&gt;El teorema de Pitágoras&lt;/h2&gt;
+
+&lt;p&gt;Es posible que Pitágoras fuese el primer matemático y filósofo del mundo occidental. Su obra cambió la visión contemporánea del mundo y en su muy conocido teorema establece que en todo triángulo rectángulo, el cuadrado de la hipotenusa (el lado de mayor longitud del triángulo rectángulo) es igual a la suma de los cuadrados de los catetos (los dos lados menores del triángulo, los que conforman el ángulo recto).&lt;/p&gt;
+
+&lt;p&gt;Con él teorema de pitágoras se puede descubrir la longitud de un lado de un triángulo rectángulo, de la medida de sus otros dos lados. Pitágoras lo definió como: “La suma del cuadrado de los catetos es igual al cuadrado de la hipotenusa”. Por ejemplo: a ² + b ² = c ². En cualquier triángulo rectángulo se aplica esta regla.
+El teorema de pitágoras es la relación matemática más conocida y ofrece un importante valor práctico, teórico y didáctico, tanto en su versión aritmético-algebraica como en su versión geométrica.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/pitagoras.jpg&quot; alt=&quot;Pitágoras_Dem&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Por eso el teorema de pitágoras es una de las ecuaciones que cambiaron al mundo.&lt;/p&gt;
+
+&lt;h2 id=&quot;principio-de-arquimides&quot;&gt;Principio de Arquimides&lt;/h2&gt;
+
+&lt;p&gt;El principio de Arquímedes es un principio físico que afirma que: «Un cuerpo total o parcialmente sumergido en un fluido en reposo, recibe un empuje de abajo hacia arriba igual al peso del volumen del fluido que desaloja». Esta fuerza recibe el nombre de empuje hidrostático o de Arquímedes, y se mide en Newtons (en el SI). El principio de Arquímedes se formula así:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/principio_arquimides.png&quot; alt=&quot;principio_arquímides&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Donde E es el empuje, ρf es la densidad del fluido, V el «volumen de fluido desplazado» por algún cuerpo sumergido parcial o totalmente en el mismo, g la aceleración de la gravedad y m la masa.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/principio_arquimides.jpg&quot; alt=&quot;principio_arquímides&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;teorema-fundamental-del-calculo&quot;&gt;Teorema Fundamental del Calculo&lt;/h2&gt;
+
+&lt;p&gt;El calculo es una parte de las matemáticas que es mas dinámica, se trabaja principalmente con la idea de integrales o anti-derivadas, las cuales surgen del concepto básico del calculo que son los limites; Los limites extienden la imaginación en proceso matemático y dan soporte a las ideas fundamentales del calculo (diferencial e integral), sin los cuales la percepción de las matemáticas en el mundo actual no seria del impacto que tienen hoy en día.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/Imangen_derivada.jpg&quot; alt=&quot;derivada&quot;&gt;
+&lt;img src=&quot;/assets/img/resourcesIMG/calculo_integral.jpg&quot; alt=&quot;integral&quot;&gt;
+&lt;img src=&quot;/assets/img/resourcesIMG/calculo.jpg&quot; alt=&quot;calculo&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;segunda-ley-de-newton-y-la-ley-de-gravitación-universal&quot;&gt;Segunda ley de Newton y La ley de gravitación universal&lt;/h2&gt;
+
+&lt;p&gt;Esta ley demostraba el enorme poder de las matemáticas para encontrar patrones escondidos en la naturaleza. Con un par de ecuaciones describió y predijo el movimiento de los planetas. Newton descubrió que se pueden resumir hechos e informacion de la naturaleza en un par de ecuaciones, y que el universo es predecible, aunque posteriormente su teoría fue superada por la teoría de la relatividad de Einstein, todavía es fundamental para casi todos los propósitos prácticos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/gravitacion_universal.jpg&quot; alt=&quot;Ley_Gravatición_Newton&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;El cambio de movimiento es directamente proporcional a la fuerza motriz impresa y ocurre según la línea recta a lo largo de la cual aquella fuerza se imprime&amp;quot; - con lo cual podemos medir la fuerza.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/newt2.gif&quot; alt=&quot;Segunda_Ley_De_Newton&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ecuación-de-bernulli-de-fluidos&quot;&gt;Ecuación de bernulli de fluidos&lt;/h2&gt;
+
+&lt;p&gt;La ecuación de Bernoulli, se puede considerar como una apropiada declaración del principio de la conservación de la energía, para el flujo de fluidos. El comportamiento cualitativo que normalmente evocamos con el término &amp;quot;efecto de Bernoulli&amp;quot;, es el descenso de la presión del líquido en las regiones donde la velocidad del flujo es mayor. En el flujo de alta velocidad a través de un estrechamiento, se debe incrementar la energía cinética, a expensas de la energía de presión. Dicho de otra forma la velocidad del agua se incrementa en proporción directa al estrechamiento. Por ejemplo, por un cuello de botella que fuera la mitad de ancho que el río normal, el agua pasara al doble de velocidad. Por un cuello de botella la tercera parte de ancho, el agua se movía tres veces más rápida que lo normal, y así sucesivamente.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/bernoul.gif&quot; alt=&quot;Ley_De_Bernulli&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Otro ejemplo seria el suponer el arca de Noé, las parejas de animales entraran por la puerta principal tocándose hombro con hombro. Supongamos que después de que Noé anotara su llegada en una gigantesca antecámara, tuvieran que meterse por un pasillo interior de uno en uno (el cuello de botella del arca) para llegar a sus establos; digamos que la puerta interior sería entonces la mitad de ancha que la puerta principal.
+Para que las cosas se mantuvieran en movimiento, todos los animales deberían duplicar su velocidad de paso por el cuello de botella del arca. Supongamos, por ejemplo, que los animales entraran en el arca a razón de una pareja por segundo… es decir, dos animales por segundo. Cuando cada pareja se dividiera para ir en fila india a los establos, todos los individuos deberían acelerar su paso, para poder pasar por el cuello de botella en medio segundo… dos veces más deprisa; de no hacerlo así, la ordenada procesión de animales se atascaría.&lt;/p&gt;
+
+&lt;p&gt;La aplicación en la fórmula de arriba se limita a los casos de flujo constante.&lt;/p&gt;
+
+&lt;h2 id=&quot;teoría-de-la-relatividad-de-einstein&quot;&gt;Teoría de la relatividad de Einstein&lt;/h2&gt;
+
+&lt;p&gt;La teoría de la relatividad pretendía resolver la incompatibilidad existente entre la mecánica newtoniana y el electromagnetismo. La teoría de la relatividad general, publicada en 1915, es una teoría de la gravedad que reemplaza a la gravedad newtoniana, aunque coincide numéricamente con ella para campos gravitatorios débiles y &amp;quot;pequeñas&amp;quot; velocidades. La teoría general se reduce a la teoría especial en ausencia de campos gravitatorios.&lt;/p&gt;
+
+&lt;p&gt;Los cambios predichos por Einstein sólo son notables a grandes velocidades. Tales velocidades han sido observadas entre las partículas subatómicas, viéndose que los cambios predichos por el genial científico se daban realmente, y con gran exactitud. Es más, sí la teoría de la relatividad de Einstein fuese incorrecta, los aceleradores de partículas no podrían funcionar, las bombas atómicas no explotarían y habría ciertas observaciones astronómicas imposibles de hacer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/relatividad.jpg&quot; alt=&quot;Teoría_relatividad&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;formula-de-euler&quot;&gt;Formula de Euler&lt;/h2&gt;
+
+&lt;p&gt;Una de las formulas mas bellas en el mundo de las matemáticas, porque involucra números claves, para las mismas,
+e, pi, i, 1 y 0.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/euler_formula.jpg&quot; alt=&quot;Formula_euler&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ecuaciones-de-maxwell&quot;&gt;Ecuaciones de Maxwell&lt;/h2&gt;
+
+&lt;p&gt;Las ecuaciones de Maxwell representan una de las formas mas elegantes y concisas de establecer los fundamentos de la Electricidad y el Magnetismo. Aunque fue Faraday quien descubrió la relación entre electrizad y magnetismo, fue realmente Maxwell quien propuso las ecuaciones fundamentales del electromagnetismo. Las ecuaciones de maxwell tuvieron una tremenda repercusión en el desarrollo tecnológico del siglo XX( televisión, radio, radar, teléfono).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/maxwells-equations.jpg&quot; alt=&quot;Maxwells-equations&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/maxwell_ecuaciones.jpg&quot; alt=&quot;Maxwell_ecuaciones&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;distribución-normal&quot;&gt;Distribución normal&lt;/h2&gt;
+
+&lt;p&gt;En estadística y probabilidad se llama distribución normal, distribución de Gauss o distribución gaussiana, a una de las distribuciones de probabilidad de variable continua que con más frecuencia aparece en fenómenos reales. La distribución de probabilidad conocida como distribución normal es, por la cantidad de fenómenos que explica, las mas importantes de las distribuciones estadísticas.&lt;/p&gt;
+
+&lt;p&gt;La distribución normal fue presentada por primera vez por Abraham de Moivre en 1738, Laplace uso la distribución normal en el análisis de errores de experimentos, el método de mínimos cuadrados fue introducido por Legendre en 1805. Gauss que afirmaba haber usado el método normal desde 1794, lo justificó rigurosamente en 1809 asumiendo una distribución normal de los errores. EL nombre de Gauss se ha asociado a esta distribución porque la usó con profusión cuando analizaba datos astronómicos.&lt;/p&gt;
+
+&lt;p&gt;El nombre de &amp;quot;campana&amp;quot; viene de Espirit Jouffret que usó el termino &amp;quot;bell surface&amp;quot; (superficie campana) por primera vez en 1872 para una distribución normal bivariante de componentes independientes. El nombre de &amp;quot;distribución normal&amp;quot; fue otorgado independientemente por Charles S., Francis Galton y Wilhelm Lexis hacia 1875.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/formula-normal.png&quot; alt=&quot;distribución_normal&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;fórmula-de-euler-para-los-poliedros&quot;&gt;Fórmula de Euler para los poliedros&lt;/h2&gt;
+
+&lt;p&gt;Nos presenta el inicio y desarrollo de una de las ramas de la matemática pura, la topología. Aunque afirma que la mayoría de las aplicaciones son indirectas, destaca que nos ayuda a comprender el funcionamiento de la molécula de la vida: el ADN.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/euler_poliedros.jpg&quot; alt=&quot;euler_poliedros&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Este es un resultado muy interesante y visualmente sorprendente. Considere un poliedro P no importa si este es regular o irregular. La fórmula de Euler indica que si C representa el número de caras del poliedro, A representa el número de aristas y V representa el número de vértices del poliedro entonces se cumple que C + V - A = 2&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo si tomamos un cubo cualquiera este tendrá seis caras, ocho vértices y doce aristas. En este caso C= 6, V=8, A=12 de donde fácilmente vemos que C+V-A= 6+8-12=2&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/euler_poliedros.png&quot; alt=&quot;euler_poliedros&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;segunda-ley-de-la-termodinámica&quot;&gt;Segunda ley de la termodinámica&lt;/h2&gt;
+
+&lt;p&gt;Segunda ley de la termodinámica. A partir de la importancia de la máquina de vapor en el desarrollo industrial surge la necesidad de mejorar su rendimiento.  Los conceptos de calor, temperatura, entro-pía. Permite poner límites al trabajo útil que puede extraerse a partir del calor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/termodinamica.jpg&quot; alt=&quot;Ley_De_Bernulli&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ecuaciones-de-plank&quot;&gt;Ecuaciones de Plank&lt;/h2&gt;
+
+&lt;p&gt;La ley de Planck describe la radiación electromagnética emitida por un cuerpo negro en equilibrio térmico en una temperatura definida. O dicho de otra manera ¿Porque emite luz un objeto cuando se calienta?.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/Ley_de_Planck.JPG&quot; alt=&quot;Ley_De_Planck&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Establece las proporciones de energía que emite un cuerpo a cierta temperatura, en distintos colores —distintas longitudes de onda— del espectro.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-ecuación-de-black-scholes&quot;&gt;La ecuación de Black-Scholes.&lt;/h2&gt;
+
+&lt;p&gt;La teoría de la valoración de opciones fue revolucionada con la publicación del trabajo de Fisher Black y Myron Scholes (1973) en el que presentaron su conocida fórmula para la determinación del valor teórico de una opción. Durante las décadas siguientes el problema de la valoración de opciones ha ocupado la mayor parte del tiempo de los investigadores en el campo de las finanzas. Más recientemente, las técnicas y modelos de valoración de opciones desarrollados muchos de ellos a partir del sugerente modelo Black-Scholes rebajando alguno de sus supuestos simplificadores, han sido aplicados a una gran variedad de situaciones que van más allá del simple
+mercado de opciones.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/ecuacion-black-schloles.jpg&quot; alt=&quot;ecuacion-black-schloles&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Sin duda uno de los modelos matemáticos más influyentes en grandes decisiones financieras a nivel mundial.&lt;/p&gt;
+
+&lt;h2 id=&quot;teoría-del-caos&quot;&gt;Teoría del caos&lt;/h2&gt;
+
+&lt;p&gt;La teoría del caos, tiene innumerables aplicaciones en toda la ciencia, incluyendo el movimiento de los planetas del Sistema Solar, la predicción del tiempo, la dinámica de poblaciones en ecología, las estrellas variables, el modelado de terremotos y trayectorias eficientes para las sondas espaciales.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/teoria_del_caos.jpg&quot; alt=&quot;teoria_del_caos&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;la-ecuación-de-onda&quot;&gt;La ecuación de onda.&lt;/h2&gt;
+
+&lt;p&gt;Vivimos en un mundo de ondas. Nuestras orejas detectan ondas de compresión en el aire, llamamos a esto «oído». Nuestros ojos detectan ondas de radiación electromagnética, llamamos a esto «vista». Cuando un terremoto azota un pueblo o una ciudad, la destrucción la causan ondas en el cuerpo sólido de la Tierra. Cuando un barco se balancea en el océano, está reaccionando a las ondas en el agua. Los surfistas usan las ondas del mar como diversión; la radio, la televisión y gran parte de las redes de teléfonos móviles usan las ondas de la radiación electromagnética, similares a las que vemos, pero de longitudes de onda diferentes. Los microondas... bueno, el nombre lo dice todo, ¿no?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/ecuacion_onda.jpg&quot; alt=&quot;teoria_del_caos&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;La aceleración de un pequeño segmento de la cuerda de un violín es proporcional al desplazamiento medio de los segmentos vecinos.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-transformada-de-fourier&quot;&gt;La transformada de Fourier.&lt;/h2&gt;
+
+&lt;p&gt;La técnica de Fourier se usa muchísimo, por ejemplo, en tratamiento de imágenes y mecánica cuántica. Se usa para encontrar la estructura de moléculas biológicas grandes como el ADN, para comprimir datos de imágenes en fotografía digital, para limpiar grabaciones de audio viejas o dañadas y para analizar terremotos. Variantes modernas se usan para almacenar datos de huellas digitales de manera eficiente y mejorar escáneres médicos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/transformada_fourier.jpg&quot; alt=&quot;transformada_fourier&quot;&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ecuación-de-dirac&quot;&gt;Ecuación de Dirac.&lt;/h2&gt;
+
+&lt;p&gt;La naturaleza está mucho más loca de lo que pensamos: las partículas pueden estar en estados sin posiciones o energía definidas, pueden estar en estados donde coexisten posibilidades que en nuestra escala son mutuamente excluyentes, etc.&lt;/p&gt;
+
+&lt;p&gt;“Si dos sistemas interactúan uno con el otro durante un cierto período de tiempo y luego se separan, lo podemos describir como dos sistemas separados, pero de alguna manera sutil están convertidos en un solo sistema. Uno de ellos sigue influyendo en el otro, a pesar de kilómetros de distancia o años luz”. Esto es el entrelazamiento cuántico o conexión cuántica. Dos partículas que, en algún momento estuvieron unidas, siguen estando de algún modo relacionadas. No importa la distancia entre ambas, aunque se hallen en extremos opuestos del universo. La conexión entre ellas es instantánea.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/dirac_ecuacion.jpeg&quot; alt=&quot;transformada_fourier&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Una de las aplicaciones de esta ecuación es que es posible encontrar tumores gracias a la anti-materia. &lt;/p&gt;
+
+&lt;h2 id=&quot;ecuación-de-schrödinger&quot;&gt;Ecuación de Schrödinger.&lt;/h2&gt;
+
+&lt;p&gt;Es la ecuación definitiva de la mecánica cuántica, es posiblemente la teoría mas exacta y mas potente jamas concebida por la humanidad. Fue ésta la ecuación que revolucionaria la tecnología, permitiendo el desarrollo de los rayos láser, discos compactos, ordenadores y dispositivos de comunicación.&lt;/p&gt;
+
+&lt;p&gt;La luz tenía comportamientos de onda y de materia. Pero no solamente la luz sino toda la materia. Esta ecuación modela la materia no como una partícula sino como una onda y describe el modo de propagación de estas ondas. Es fundamental para la mecánica cuántica que rige el mundo de lo muy pequeño. Y se analizan conclusiones, muy difíciles de entender, que se deducen de esta ecuación.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resourcesIMG/cuantica-ecuacion.jpg&quot; alt=&quot;Ecuación_cuántica&quot;&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Mar 2016 00:00:00 -0600</pubDate>
+        <link>http://infopoly.github.io//2016/03/20/Ecuaciones%20Matematicas/</link>
+        <guid isPermaLink="true">http://infopoly.github.io//2016/03/20/Ecuaciones%20Matematicas/</guid>
+        
+        <category>matemáticas</category>
+        
+        <category>ecuaciones</category>
+        
+        <category>ciencia</category>
+        
+        <category>estudio</category>
+        
+        <category>infopoly</category>
+        
+        
+      </item>
     
       <item>
         <title>Processing - Software Interactivo</title>
@@ -477,125 +660,6 @@ Y lo puedes comprobar aquí. &lt;a href=&quot;https://www.google.es/maps/timelin
         <category>buscador</category>
         
         <category>privacidad</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Discurso de Steve Jobs en Stanford</title>
-        <description>&lt;h2 id=&quot;quot-mantente-hambriento-quot-steve-jobs&quot;&gt;&amp;quot;Mantente hambriento&amp;quot; -Steve Jobs&lt;/h2&gt;
-
-&lt;p&gt;En 2005 Steve Jobs dio un histórico discurso de apertura de curso en la universidad norteamericana de Stanford. En él cuenta con tres historias de su vida, las claves que le forjaron su carácter y el de su compañía: su propio comportamiento en su época de estudiante, después de que fuera despedido de la firma que fundó y cuando le diagnosticaron un cáncer terminal.&lt;/p&gt;
-
-&lt;p&gt;Pocas veces tenemos la oportunidad de escuchar que alguien que hizo las cosas mal(o tal vez no de la manera esperada), termina teniendo éxito. Es el caso de Steve Jobs, quien reconoce que su vida fue un vagar y sin una meta fija, dejo la escuela y persiguio un sueño, siempre con un constante aprendizaje. Aprendió caligrafiá, espiritualidad y programación, dejo la universidad y de alguna manera termina conectando los puntos de cada una de las cosas que aprendió para formar algo realmente grandioso y que cambio la vida de millones de personas en el mundo.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;Recordar que voy a morir pronto es la herramienta más importante que haya encontrado para ayudarme a tomar las grandes decisiones de mi vida. Porque prácticamente todo, las expectativas de los demás, el orgullo, el miedo al ridículo o al fracaso se desvanece frente a la muerte, dejando sólo lo que es verdaderamente importante&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;figure class=&#39;BetterTube&#39; data-youtube-id=&#39;HHkJEz_HdTg&#39; data-player-width=&#39;560&#39; data-player-height=&#39;315&#39; id=&#39;HHkJEz_HdTg&#39; style=&#39;padding-bottom: 56.25%&#39;&gt;&lt;a class=&#39;BetterTubePlayer&#39; href=&#39;http://www.youtube.com/watch?v=a_426RiwST8&#39; style=&#39;background: url(http://img.youtube.com/vi/HHkJEz_HdTg/hqdefault.jpg) 50% 50% no-repeat rgb(0, 0, 0);&#39;&gt;&lt;/a&gt;&lt;div class=&#39;BetterTube-playBtn&#39;&gt;&lt;/div&gt;&amp;nbsp;&lt;/figure&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;la-primera-historia-se-trata-de-conectar-los-puntos&quot;&gt;La primera historia se trata de conectar los puntos&lt;/h2&gt;
-
-&lt;p&gt;Me retiré del Reed College después de los primeros seis meses y seguí yendo como oyente durante otros 18 meses, o más, antes de renunciar de verdad. Entonces ¿por qué me retiré?&lt;/p&gt;
-
-&lt;p&gt;Comenzó antes de que yo naciera. Mi madre biológica era una joven, soltera, estudiante de universidad, y decidió darme en adopción.&lt;/p&gt;
-
-&lt;p&gt;Ella creía firmemente que debía ser adoptado por estudiantes graduados. Por lo tanto, todo estaba preparado para que apenas naciera fuera adoptado por un abogado y su esposa. Salvo que cuando salí, decidieron en el último minuto que en realidad deseaban una niña. Entonces, mis padres (quienes lo criaron), quienes estaban en lista de espera, recibieron una llamada en medio de la noche preguntando: “Tenemos un inesperado niño: ¿lo quieren?”. Ellos dijeron: “Por supuesto”.&lt;/p&gt;
-
-&lt;p&gt;Después, mi madre biológica se enteró de que mi madre nunca se había graduado de la universidad y mi padre nunca se había graduado de preparatoria. Se negó a firmar los papeles finales de adopción. Solo cambió de parecer unos meses después, cuando mis padres prometieron que yo iría a la universidad. Este fue el comienzo de mi vida.&lt;/p&gt;
-
-&lt;p&gt;Y 17 años después fui a la universidad. Pero ingenuamente elegí una universidad casi tan cara como Stanford, y todos los ahorros de mis padres de clase obrera se gastaban en mí matrícula.&lt;/p&gt;
-
-&lt;p&gt;Después de seis meses, yo no veía el valor de eso. No tenía idea de lo que quería hacer con mi vida y no tenía idea de cómo la universidad me iba a ayudar a entenderlo. Y aquí estaba yo, gastando todo el dinero que mis padres habían ahorrado durante toda su vida. Así que decidí dejar la universidad y confiar en que todo iba a resultar bien. Fue bastante aterrador en ese momento, pero mirando hacia atrás, fue una de las mejores decisiones que tomé.&lt;/p&gt;
-
-&lt;p&gt;Apenas me retiré, pude dejar de asistir a las clases obligatorias que no me interesaban y comencé a asistir como oyente irregularmente a las que se veían mucho más interesantes.&lt;/p&gt;
-
-&lt;p&gt;No todo fue romántico. No tenía dormitorio, así que dormía en el piso de los cuartos de mis amigos. Recogía botellas de Coca Cola y las llevaba a los depósitos que me pagaban cinco centavos por cada una, para poder comprar comida. Y caminaba 11 kilómetros, cruzando la ciudad todos los domingos en la noche, para conseguir una buena comida a la semana en el templo Hare Krishna. Me encantaba. Y la mayor parte de las cosas con las que tropecé siguiendo mi curiosidad e intuición resultaron ser invaluables posteriormente. Les doy un ejemplo: en ese tiempo, Reed College ofrecía quizás la mejor instrucción en caligrafía del país.&lt;/p&gt;
-
-&lt;p&gt;A lo largo de todo el campus, todos los pósters, todas las etiquetas de todos los cajones estaban bellamente escritos en caligrafía a mano. Debido a que había abandonado la universidad y no tenía que asistir a las clases normales, decidí tomar una clase de caligrafía para aprender. Aprendí de (las fuentes) serif y san serif, de la variación de espacio entre las distintas combinaciones de letras, de lo que hace grande a la gran tipografía. Era hermoso, histórico, artísticamente sutil de una manera en que la ciencia no logra capturar, y lo encontré fascinante.&lt;/p&gt;
-
-&lt;p&gt;Nada de esto tenía siquiera una esperanza de aplicación práctica en mi vida. No obstante, 10 años después, cuando estábamos diseñando la primera computadora Macintosh (Steve Jobs y Steve Wozniak), todo tuvo sentido para mí. Y todo lo diseñamos en la Mac. Fue la primera computadora con una bella tipografía. Si nunca hubiera asistido a ese único curso en la universidad, la Mac nunca habría tenido fuentes múltiples o fuentes proporcionalmente espaciadas; dado que Windows solo copió la Mac (provoca risas del auditorio) es probable que ninguna computadora personal las tendría.&lt;/p&gt;
-
-&lt;p&gt;Si no me hubiera retirado, nunca habría asistido a esa clase de caligrafía, y las computadoras personales tal vez no tendrían la maravillosa tipografía que tienen. Por supuesto, era imposible conectar los puntos mirando hacia el futuro cuando estaba en la universidad. Sin embargo, quedó muy, muy claro, mirando hacia atrás, 10 años después.&lt;/p&gt;
-
-&lt;p&gt;Reitero: no puedes conectar los puntos mirando hacia el futuro; solo puedes conectarlos mirando hacia el pasado. Así que tienes que confiar en que los puntos de alguna manera se conectarán en tu futuro. Tienes que confiar en algo: tu instinto, destino, vida, karma, lo que sea. Porque creer que los puntos se conectarán más adelante en el camino te dará la confianza de seguir a tu corazón, incluso cuando te lleva lejos del camino cómodo. Y eso hará toda la diferencia.&lt;/p&gt;
-
-&lt;h2 id=&quot;mi-segunda-historia-es-sobre-amor-y-pérdida&quot;&gt;Mi segunda historia es sobre amor y pérdida.&lt;/h2&gt;
-
-&lt;p&gt;Yo fui afortunado. Descubrí lo que amaba hacer temprano en la vida. Woz y yo comenzamos Apple en el garage de mis padres cuando tenía 20 años. Trabajamos duro y en 10 años Apple había crecido desde sólo nosotros dos en un garage, hasta una compañía de 2,000 millones con más de 4,000 empleados. Recién habíamos lanzado nuestra más grandiosa creación —la Macintosh— un año antes y yo recién había cumplido 30 años. Y luego me despidieron.&lt;/p&gt;
-
-&lt;p&gt;¿Cómo pueden despedirte de una compañía que tú fundaste? Bueno… mientras Apple crecía, contratamos a alguien que pensé que era muy talentoso, para dirigir la compañía conmigo.&lt;/p&gt;
-
-&lt;p&gt;Durante los primeros años las cosas fueron bien. Pero luego nuestras visiones del futuro comenzaron a divergir y finalmente tuvimos una separación. Cuando eso pasó, nuestra junta de directivos se puso de parte de él.&lt;/p&gt;
-
-&lt;p&gt;Así que a los 30, estaba afuera, y manera muy pública. Lo que había sido el foco de toda mi vida adulta, había desaparecido, y fue devastador. Sentía que había decepcionado a la generación previa de emprendedores; que había dejado caer la estafeta cuando me la pasaron.&lt;/p&gt;
-
-&lt;p&gt;Me encontré con David Packard y Bob Noyce (cofundadores de Hewlett Packard e Intel, respectivamente) e intenté disculparme por haberlo echado a perder tan mal. Yo era un muy público fracaso e incluso pensé en huír del valle (Silicon Valley, hogar de muchas empresas de tecnología).&lt;/p&gt;
-
-&lt;p&gt;Pero algo lentamente empezó a gestarse en mí. Yo todavía amaba lo que hacía. El revés con Apple no había cambiado eso ni un poquito. Había sido rechazado, pero seguía enamorado. Así que decidí empezar de nuevo.&lt;/p&gt;
-
-&lt;p&gt;En ese entonces no lo vi, pero resulta que ser despedido de Apple fue lo mejor que pudo haberme pasado. El peso de ser exitoso fue reemplazado por la ligereza de ser un principiante de nuevo, menos seguro de todo. Me liberó hacia uno de los periodos más creativos de mi vida.&lt;/p&gt;
-
-&lt;p&gt;Durante los siguientes cinco años, emprendí una compañía llamada NeXT, otra compañía llamada Pixar, y me enamoré de una increíble mujer que se convertiría en mi esposa. Pixar continuó y creó la primera película animada por computadora en el mundo, Toy Story, y ahora es el estudio de animación más exitoso en el mundo.&lt;/p&gt;
-
-&lt;p&gt;En un notable giro de los eventos, Apple compró NeXT, regresé a Apple y la tecnología que desarrollamos en NeXT está en el corazón del actual renacimiento de Apple. Y Laurene y yo tenemos una maravillosa familia.&lt;/p&gt;
-
-&lt;p&gt;Estoy muy seguro de que nada de esto habría sucedido si no me hubiesen despedido de Apple. Fue una amarga medicina, pero creo que el paciente la necesitaba. En ocasiones la vida te golpeará con un ladrillo en la cabeza. No pierdas la fe.&lt;/p&gt;
-
-&lt;p&gt;Estoy convencido que lo único que me permitió seguir fue que yo amaba lo que hacía. Tienes que encontrar eso que amas. Y eso es tan válido para tu trabajo como para tus relaciones sentimentales. Tu trabajo va a llenar gran parte de tu vida y la única manera de sentirse realmente satisfecho es hacer aquello que crees que es un gran trabajo.&lt;/p&gt;
-
-&lt;p&gt;Y la única forma de hacer un gran trabajo es amando lo que haces. Si todavía no lo has encontrado, sigue buscando. No te detengas. Al igual que con los asuntos del corazón, sabrás cuando lo encuentres. Y al igual que cualquier relación importante, mejora con el paso de los años. Así que sigue buscando hasta que lo encuentres. No te detengas.&lt;/p&gt;
-
-&lt;h2 id=&quot;la-tercera-historia-es-sobre-la-muerte&quot;&gt;La tercera historia es sobre la muerte&lt;/h2&gt;
-
-&lt;p&gt;Cuando tenía 17 años, leí una cita que decía algo parecido a: “Si vives cada día como si fuera el último, es muy probable que algún día hagas lo correcto”.&lt;/p&gt;
-
-&lt;p&gt;A mí me impresionó y desde entonces, durante los últimos 33 años, me miro al espejo todas las mañanas y me pregunto: “Si hoy fuera en último día de mi vida, ¿querría hacer lo que estoy a punto de hacer hoy?” Y cada vez que la respuesta ha sido “No” por varios días seguidos, sé que necesito cambiar algo.&lt;/p&gt;
-
-&lt;p&gt;Recordar que moriré pronto constituye la herramienta más importante que he encontrado para ayudarme a decidir las grandes elecciones de mi vida. Porque casi todo —todas las expectativas externas, todo el orgullo, todo el temor a la vergüenza o al fracaso— todo eso desaparece a las puertas de la muerte, quedando solamente aquello que es realmente importante.&lt;/p&gt;
-
-&lt;p&gt;Recordar que vas a morir es la mejor manera que conozco para evitar la trampa de pensar que tienes algo que perder. Ya estás desnudo. No hay ninguna razón para no seguir a tu corazón.&lt;/p&gt;
-
-&lt;p&gt;Hace casi un año me diagnosticaron cáncer. Me hicieron un escaneo a las 7:30 de la mañana y claramente mostraba un tumor en el páncreas. Yo ni siquiera sabía lo que era el páncreas. Los doctores me dijeron que era muy probable que fuera un tipo de cáncer incurable y que mis expectativas de vida no superarían los tres a seis meses.&lt;/p&gt;
-
-&lt;p&gt;Mi doctor me aconsejó irme a casa y arreglar mis asuntos, que es el código médico para prepararte para la muerte.&lt;/p&gt;
-
-&lt;p&gt;Significa intentar decirles a tus hijos todo lo que pensabas decirles en los próximos 10 años, en unos pocos meses. Significa asegurarte que todo esté finiquitado de modo que sea lo más sencillo posible para tu familia. Significa despedirte. Viví con ese diagnóstico todo el día.&lt;/p&gt;
-
-&lt;p&gt;Luego, al atardecer, me hicieron una biopsia en que introdujeron un endoscopio por mi garganta, a través del estómago y mis intestinos, pincharon con una aguja mi páncreas y extrajeron unas pocas células del tumor. Estaba sedado, pero mi esposa, quien estaba allí, me contó que cuando examinaron las células en el microscopio, los doctores empezaron a llorar porque descubrieron que era una forma muy rara de cáncer pancreático, curable con cirugía. Me operaron y afortunadamente ahora estoy bien.&lt;/p&gt;
-
-&lt;p&gt;Fue lo más cercano que he estado a la muerte y espero que sea lo más cercano por unas cuantas décadas más. Al haber vivido esa experiencia, puedo contarla con un poco más de certeza que cuando la muerte era un útil pero puramente intelectual concepto: Nadie quiere morir. Incluso la gente que quiere ir al cielo, no quiere morir para llegar allá. La muerte es el destino que todos compartimos. Nadie ha escapado de ella. Y es como debe ser porque probablemente la muerte es la mejor invención de la vida. Es el agente de cambio de la vida. Elimina lo viejo para dejar paso a lo nuevo.&lt;/p&gt;
-
-&lt;p&gt;Ahora mismo, ustedes son lo nuevo, pero algún día, no muy lejano, gradualmente ustedes serán viejos y serán eliminados. Lamento ser tan trágico, pero es muy cierto. Su tiempo tiene límite, así que no lo pierdan viviendo la vida de otra persona.&lt;/p&gt;
-
-&lt;p&gt;No se dejen atrapar por dogmas, es decir, vivir con los resultados del pensamiento de otras personas. No permitan que el ruido de las opiniones ajenas silencie su propia voz interior. Y más importante todavía, tengan el valor de seguir su corazón e intuición, que de alguna manera ya saben lo que realmente quieren llegar a ser. Todo lo demás es secundario.&lt;/p&gt;
-
-&lt;p&gt;Cuando era joven, había una asombrosa publicación llamada The Whole Earth Catalog, que era una de las biblias de mi generación. Fue creada por un tipo llamado Steward Brand no muy lejos de aquí, en Menlo Park, y la creó con un toque poético. Fue a fines de los 60, antes de las computadoras personales y de la edición mediante microcomputadoras, por lo tanto, en su totalidad fue editada con máquinas de escribir, tijeras y cámaras Polaroid. Era un tipo de Google en formato de edición económica, 35 años antes de que apareciera Google: era idealista y rebosante de hermosas herramientas y grandes conceptos.&lt;/p&gt;
-
-&lt;p&gt;Steward y su equipo publicaron varias ediciones del The Whole Earth Catalog, y luego, cuando seguía su curso normal, publicaron la última edición. Fue a mediados de los 70 y yo tenía la edad de ustedes.&lt;/p&gt;
-
-&lt;p&gt;En la tapa trasera de la última edición, había una fotografía de una carretera en el campo tomada temprano en la mañana, similar a una en que estarían haciendo autostop si fueran así de aventureros. Debajo de la foto decía: “Mantente hambriento. Mantente insensato”.&lt;/p&gt;
-
-&lt;p&gt;Fue su mensaje de despedida al finalizar. Mantente hambriento. Mantente alocado. Siempre he deseado eso para mí. Y ahora, cuando se gradúan para empezar de nuevo, es lo que deseo para ustedes. Mantente hambriento. Mantente alocado.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Steve Jobs nos habla de esa maravillosa capacidad del ser humano que es la de mantenerse hambriento.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Fri, 09 Oct 2015 00:00:00 -0500</pubDate>
-        <link>http://infopoly.github.io//2015/10/09/Discurso-Mantente-Hambriento-Steve-Jobs/</link>
-        <guid isPermaLink="true">http://infopoly.github.io//2015/10/09/Discurso-Mantente-Hambriento-Steve-Jobs/</guid>
-        
-        <category>discurso</category>
-        
-        <category>steve-jobs</category>
-        
-        <category>motivacional</category>
-        
-        <category>stanford</category>
         
         
       </item>
